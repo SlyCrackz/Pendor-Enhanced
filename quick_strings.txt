@@ -1,4 +1,4 @@
-3140
+3141
 qstr_Next_Page Next_Page
 qstr_Game_Rules:^ Game_Rules:^
 qstr_0 0
@@ -3139,3 +3139,4 @@ qstr_{!}DEBUG____Total_ru {!}DEBUG_--_Total_rural_production_for_{s4}_region:_{r
 qstr_{!}DEBUG____Total_tr {!}DEBUG_--_Total_trade_for_{s4}:_{reg4}
 qstr_{!}DEBUG____Total_at {!}DEBUG_--_Total_attacks_for_{s4}:_{reg4}
 qstr_Reassign_archers_wit Reassign_archers_with_empty_ammo_to_division_
+qstr_enemy_num:{reg5} Number_of_enemies:{reg5}_Number_of_allies:{reg6}
