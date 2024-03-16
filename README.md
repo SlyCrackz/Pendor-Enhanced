@@ -1,6 +1,7 @@
 ## Pendor Enhanced
 
 1. **Spawns and Parties**
+    - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - BananaFruit
 2. **Knighthood Orders**
     - Be able to create KO chapters in any walled fief of your own kingdom - credits to SirArtyr, Leonion and VonDegurechaff 
     - Overhaul of KO upgrade system - credits to Leonion
