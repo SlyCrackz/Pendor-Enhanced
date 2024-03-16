@@ -1,0 +1,169 @@
+partytemplatesfile version 1
+167
+pt_none none 34 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_rescued_prisoners Rescued_Prisoners 34 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_enemy Enemy 5 0 42 7 -1 -1 -1 -1 -1 -1 
+pt_hero_party Hero_Party 34 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_village_defenders Village_Defenders 26 0 1 7 55 5 16 0 236 0 8 0 231 3 12 0 -1 -1 -1 
+pt_cattle_herd Cattle_Herd 2814749767106593 0 3 7 54 80 120 0 -1 -1 -1 -1 -1 
+pt_looters Outlaw_Band 2814749767106564 0 2 312 221 0 2 0 215 0 12 0 213 3 12 0 214 3 12 0 55 0 1 1 -1 
+pt_militia Militia_Patrol 38 0 21 137 234 0 1 0 233 1 6 0 232 6 24 0 66 1 4 0 235 0 3 0 231 4 12 0 
+pt_steppe_bandits D'Shar_Raiders 5629499534213159 0 2 312 220 1 3 0 219 5 30 0 365 0 1 1 -1 -1 -1 
+pt_forest_bandits Forest_Bandits 5629499534213124 0 2 312 221 0 1 0 218 4 24 0 365 0 1 1 -1 -1 -1 
+pt_mountain_bandits Mountain_Men_Outlaws 562949953421329 0 23 312 221 0 1 0 228 0 8 0 215 2 8 0 227 1 8 0 213 2 12 0 365 0 4 1 
+pt_sea_raiders Vanskerry_Raiders 5629499534213144 0 33 312 225 0 1 0 224 1 12 0 223 2 14 0 237 2 10 0 73 4 16 0 55 0 1 1 
+pt_snake_bandits Snake_Cult_Party 5629499534213150 0 42 312 274 0 4 0 273 2 18 0 272 4 40 0 55 0 3 1 -1 -1 
+pt_forest_outcasts Band_of_Brigands 5629499534213124 0 24 312 221 0 1 0 217 1 12 0 218 2 30 0 365 0 1 1 -1 -1 
+pt_sea_raider_army Vanskerry_Sea_Raider_Army 5629499534213143 0 33 137 243 1 3 0 77 6 18 0 225 4 48 0 224 40 300 0 64 60 160 0 223 100 500 0 
+pt_omen_seekers Omen_Seekers 5629499534213160 0 2 312 319 2 12 0 -1 -1 -1 -1 -1 
+pt_heretics Heretic_Coven 562949953421331 0 41 458 363 1 3 0 362 2 6 0 361 3 13 0 360 6 24 0 55 1 5 1 -1 
+pt_heretics_army Heretic_Army 5629499534213138 0 41 137 364 4 24 0 363 12 48 0 362 24 48 0 361 48 96 0 360 400 700 0 77 6 24 0 
+pt_snake_cult Snake_Cult_Party 5629499534213150 0 42 458 276 1 3 0 275 1 3 0 274 3 12 0 273 4 18 0 272 4 24 0 55 0 3 1 
+pt_snake_cult_warband Snake_Cult_Warband 5629499534213150 0 42 458 276 1 3 0 275 2 12 0 274 8 24 0 273 12 48 0 272 2 12 0 55 0 8 1 
+pt_snake_cult_army Snake_Cult_Army 5629499534213149 0 42 137 276 2 20 0 275 12 30 0 274 100 300 0 273 100 300 0 272 100 300 0 -1 
+pt_azi_death_cult Azi_Dahaka_Death_Cult_Marauders 5629499534213150 0 42 458 359 1 3 0 358 6 36 0 -1 -1 -1 -1 
+pt_mystmountain_raiders Mystmountain_Raiders 562949953421329 0 39 312 230 0 3 0 229 1 4 0 228 4 21 0 227 4 32 0 365 0 3 1 -1 
+pt_mystmountain_army Mystmountain_Army 5629499534213136 0 39 137 243 10 15 0 230 20 50 0 229 4 20 0 228 200 600 0 227 200 300 0 215 60 200 0 
+pt_jatu_nomads Jatu_Raiding_Party 5629499534213128 0 37 312 271 0 1 0 270 1 6 0 269 2 18 0 268 6 28 0 365 0 2 1 -1 
+pt_jatu_warband Jatu_Warband 5629499534213127 0 37 312 271 1 3 0 270 3 9 0 269 5 25 0 268 12 48 0 -1 -1 
+pt_jatu_army Jatu_Army 5629499534213126 0 37 137 271 1 12 0 243 1 6 0 77 1 12 0 270 50 100 0 269 100 220 0 268 180 420 0 
+pt_red_brotherhood Red_Brotherhood 562949953421344 0 38 312 205 1 4 0 204 1 6 0 215 4 12 0 365 0 3 1 217 2 8 0 -1 
+pt_inquisition_patrol Inquisition_Patrol 562949953421322 0 43 137 211 3 6 0 210 5 10 0 209 7 12 0 64 5 12 0 62 7 12 0 -1 
+pt_inquisition_warband Inquisition_Theologians 1407374883553290 0 43 137 212 2 5 0 211 5 20 0 210 5 20 0 209 10 20 0 65 10 20 0 63 10 20 0 
+pt_inquisition_army Inquisition_Holy_Army 2251799813685257 0 43 137 212 30 50 0 211 80 150 0 210 40 120 0 209 80 200 0 65 70 150 0 63 70 150 0 
+pt_fadventurers Female_Adventuring_Company 2251799813685261 0 34 509 242 1 6 0 405 3 10 0 241 4 12 0 240 5 15 0 239 5 18 0 -1 
+pt_adventurers Adventuring_Company 5629499534213165 0 34 509 243 1 8 0 77 8 12 0 260 4 20 0 259 4 12 0 -1 -1 
+pt_peasant_army Peasant_Revolt_Army 5629499534213145 0 25 137 243 1 4 0 100 50 200 0 181 50 200 0 160 50 200 0 119 50 200 0 231 200 1000 0 
+pt_merc_barclay Conquistadoros_de_Aventura 2251799813685270 0 28 509 297 10 20 0 296 20 40 0 295 20 40 0 293 30 60 0 294 20 40 0 -1 
+pt_merc_generic Mercenary_Company 2251799813685259 0 34 137 64 10 50 0 62 30 50 0 65 20 60 0 59 50 100 0 -1 -1 
+pt_merc_mettenheim Mettenheim_Expeditionary_Force 2251799813685262 0 30 137 283 20 60 0 282 20 40 0 281 50 100 0 278 50 100 0 279 50 100 0 -1 
+pt_merc_freikorps_mettenheim Freikorps_Mettenheim 2251799813685262 0 30 137 282 4 8 0 278 50 100 0 279 50 100 0 -1 -1 -1 
+pt_melitine_medium_spawn Melitine_Scouting_Force 5629499534213141 0 32 137 418 5 10 0 416 20 40 0 417 20 40 0 415 20 40 0 413 30 60 0 414 40 80 0 
+pt_merc_jatu Jatu_Mercenaries 2251799813685255 0 37 137 271 3 12 0 74 100 200 0 -1 -1 -1 -1 
+pt_merc_vanskerry Vanskerry_Leiesoldat 2251799813685271 0 2 137 225 4 8 0 73 100 200 0 -1 -1 -1 -1 
+pt_merc_veccavian Daughters_of_Persinoe 2251799813685263 0 31 137 289 4 8 0 288 20 40 0 287 20 50 0 286 20 50 0 285 50 100 0 284 50 100 0 
+pt_merc_singalian Singalian_Sellsword_Company 2251799813685276 0 40 137 299 10 50 0 298 50 100 0 67 50 100 0 -1 -1 -1 
+pt_slaver_singalian Singalian_Slavers 2251799813685276 0 40 137 299 3 6 0 298 5 30 0 67 10 50 0 -1 -1 -1 
+pt_player_merc_mettenheim The_Freybrueder 2251799813685262 0 30 509 1179 1 1 0 283 3 8 0 282 5 10 0 281 10 20 0 411 25 50 0 279 40 70 0 
+pt_player_merc_mettenheim_2 The_Freybrueder_part_2 2251799813685262 0 30 509 278 25 50 0 -1 -1 -1 -1 -1 
+pt_player_merc_veccavian The_Veccavian_Renegades 2251799813685263 0 31 509 1180 1 1 0 412 20 35 0 287 30 50 0 286 30 60 0 285 20 40 0 284 20 40 0 
+pt_player_merc_barclay Primera_Guardia_Real 2251799813685270 0 28 509 1181 1 1 0 297 10 15 0 296 20 35 0 295 20 40 0 293 30 60 0 294 20 40 0 
+pt_player_merc_melitine The_Sarno_Expedition 2251799813685269 0 32 509 1182 1 1 0 415 15 25 0 416 15 30 0 417 10 20 0 413 30 60 0 414 30 60 0 
+pt_player_merc_marleons 1st_Banneret_of_Marleons 2251799813685260 0 15 509 1183 1 1 0 96 100 200 0 -1 -1 -1 -1 
+pt_player_merc_unicorns Sir_Timothy's_Knights 2251799813685260 0 1 509 1184 1 1 0 406 80 160 0 235 20 30 0 238 20 30 0 -1 -1 
+pt_player_merc_red_brotherhood Lothario's_Brotherhood 2251799813685279 0 38 509 1185 1 1 0 205 80 160 0 204 60 120 0 217 50 100 0 273 40 80 0 181 0 12 0 
+pt_player_merc_red_brotherhood_2 Lothario's_Brotherhood_part_2 2251799813685279 0 38 509 160 0 12 0 119 0 12 0 100 0 12 0 139 0 12 0 147 0 6 1 -1 
+pt_player_merc_snowlions The_Snowlion_Brigade 2251799813685259 0 1 509 1186 1 1 0 407 20 50 0 408 30 50 0 410 40 70 0 409 30 60 0 -1 
+pt_player_merc_singalians Firuz_and_his_Singalian_Slavers 2251799813685275 0 40 509 1187 1 1 0 299 50 100 0 298 80 150 0 67 80 160 0 -1 -1 
+pt_player_merc_jatu Chosen_of_Indar 2251799813685254 0 37 509 1188 1 1 0 270 20 40 0 269 40 80 0 268 50 100 0 74 50 100 0 -1 
+pt_player_merc_generic The_Free_Company 2251799813685259 0 34 509 1189 1 1 0 65 15 30 0 60 15 30 0 63 20 40 0 64 30 60 0 58 40 80 0 
+pt_player_merc_cheaters Andy's_Freeloading_Cheaters 2251799813685259 0 2 312 1190 1 1 0 215 10 20 0 55 20 40 0 -1 -1 -1 
+pt_stronghold_patrol Order_Stronghold_Patrol 1407374887747630 0 1 509 -1 -1 -1 -1 -1 -1 
+pt_ren_knights Renegade_Knights 11258999068426245 0 35 509 -1 -1 -1 -1 -1 -1 
+pt_cb5_results Fleeing_Enemies 11258999068426274 0 35 312 -1 -1 -1 -1 -1 -1 
+pt_noldor_elves Noldor_Ranger_Company 3377699720527875 0 27 509 265 2 24 0 263 12 36 0 261 4 36 0 -1 -1 -1 
+pt_errant_knights Errant_Knights 3377699724722222 0 1 509 -1 -1 -1 -1 -1 -1 
+pt_dread_legion_patrol Dread_Legion_Patrol 5629499534213150 0 42 137 276 2 6 0 275 8 20 0 349 3 15 0 -1 -1 -1 
+pt_eyegrim_patrol Eyegrim's_Demon_Vanguard 5629499534213140 0 41 137 355 2 5 0 353 2 12 0 352 2 20 0 -1 -1 -1 
+pt_wolfbode_patrol Wolfbode's_Patrol 5629499534213137 0 39 137 321 6 12 0 228 10 20 0 -1 -1 -1 -1 
+pt_three_seers_patrol Three_Seers_Patrol 2533274790395924 0 41 137 357 3 15 0 356 5 10 0 325 11 20 0 -1 -1 -1 
+pt_inquisitor_rasmus_patrol Invokers_of_the_Righteous_Truth 562949953421322 0 43 137 212 1 1 0 211 5 10 0 210 5 20 0 65 5 15 0 63 5 10 0 -1 
+pt_wolfbode Wolfbode_the_Slayer 5629499534213155 0 39 137 308 1 1 0 321 60 100 0 230 60 100 0 229 100 250 0 228 100 300 0 227 200 350 0 
+pt_dread_legion Dread_Legion 5629499534213149 0 42 137 309 1 1 0 276 100 200 0 275 100 400 0 277 50 50 0 349 200 400 0 348 100 200 0 
+pt_jatu_k_juda K'Juda_the_Ravager 562949953421318 0 37 137 310 1 1 0 322 50 150 0 270 50 80 0 269 40 120 0 268 50 300 0 262 1 3 1 
+pt_jatu_zulkar Warlord_Zulkar 562949953421318 0 37 137 311 1 1 0 323 50 150 0 270 50 80 0 269 50 200 0 268 50 150 0 262 1 3 1 
+pt_eyegrim Eyegrim_the_Devourer 5629499534213138 0 41 137 350 1 1 0 355 20 60 0 354 30 80 0 353 100 200 0 352 150 300 0 351 100 400 0 
+pt_brouhaha Alaric_von_Brouhaha 562949953421337 0 25 137 307 1 1 0 71 20 70 0 231 150 350 0 100 200 600 0 -1 -1 
+pt_burilgi_the_usurper Burilgi_the_Usurper 5629499534213147 0 40 137 300 1 1 0 319 25 100 0 298 200 300 0 67 100 200 0 220 50 100 0 299 50 100 0 
+pt_oswald Oswald_de_Fleur_Adventure_Company 2533274790395916 0 34 509 301 1 1 0 260 85 100 0 77 60 80 0 259 30 50 0 243 10 15 0 -1 
+pt_griffonsword Griffonsword_Adventure_Company 2533274790395916 0 34 509 302 1 1 0 256 30 70 0 77 10 30 0 405 20 50 0 242 10 20 0 241 100 220 0 
+pt_ironsword Kodan_Ironsword's_Adventure_Company 2533274790395915 0 34 509 303 1 1 0 255 20 50 0 250 20 50 0 153 20 24 0 150 20 40 0 223 50 110 0 
+pt_shalavan Sheik_Shalavan's_Adventure_Company 2533274790395916 0 35 509 305 1 1 0 254 50 90 0 249 90 120 0 222 64 90 0 127 28 44 0 331 70 120 0 
+pt_boristheraven Sir_Boris_the_Raven 2533274790395916 0 35 509 306 1 1 0 335 100 250 0 256 100 150 0 251 30 80 0 392 40 100 0 -1 
+pt_three_seers The_Three_Seers 2533274790395922 0 41 509 327 3 3 0 257 60 200 0 325 169 169 0 356 100 200 0 326 50 50 0 324 200 400 0 
+pt_noldor_lord_1 Aeldarian_Noldor_Lord 1125899906842626 0 27 509 312 1 1 0 266 12 34 0 265 24 48 0 263 180 300 0 261 12 48 0 264 120 240 0 
+pt_noldor_lord_2 Ithilrandir_Noldor_Lord 1125899906842626 0 27 509 313 1 1 0 266 12 34 0 265 12 24 0 263 12 60 0 261 120 300 0 264 120 240 0 
+pt_syla_uzas Syla_Uzas 2533274790395915 0 35 509 304 1 1 0 340 20 40 0 330 100 300 0 167 100 200 0 397 15 30 0 387 15 30 0 
+pt_mett_obrist Obrist_Heynrich 2533274790395918 0 36 509 314 1 1 0 283 30 50 0 282 20 40 0 281 50 90 0 280 150 250 0 411 200 300 0 
+pt_vecc_verante The_Renegade_Witch_Hunt 2533274790395919 0 31 509 315 1 1 0 289 30 50 0 412 100 150 0 288 30 50 0 287 60 100 0 286 100 150 0 
+pt_barclay_rufio Tercio_Villaviciosia 2533274790395926 0 2 509 316 1 1 0 260 30 40 0 297 30 60 0 296 50 80 0 295 120 200 0 293 150 250 0 
+pt_melitine_kaspax Melitine_Invasion_Force 2533274790395925 0 32 509 317 1 1 0 418 30 60 0 417 40 80 0 415 60 100 0 413 100 150 0 414 150 250 0 
+pt_inquisitor Holy_Inquisitor_Rasmus_Devatica 2533274790395913 0 43 509 318 1 1 0 65 200 250 0 63 100 150 0 212 50 100 0 211 150 200 0 209 200 250 0 
+pt_madame_de_pompadour Madame_de_Pompadour 2533274790395915 0 34 509 303 1 1 0 255 20 40 0 250 10 40 0 153 10 24 0 150 18 34 0 224 20 70 0 
+pt_refugees Refugees 26 0 1 7 365 2 12 0 236 0 1 0 -1 -1 -1 -1 
+pt_refugees_guarded Armed_Refugees 26 0 1 7 232 1 2 0 231 0 3 0 365 2 12 0 236 0 1 0 -1 -1 
+pt_deserters Deserters 844424930132002 0 22 312 -1 -1 -1 -1 -1 -1 
+pt_merchant_caravan Merchant_Caravan 5629499534606370 0 1 11 371 1 1 0 58 8 20 0 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658053 0 2 312 260 0 8 0 259 2 12 0 217 8 20 0 215 12 30 0 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790789125 0 3 312 260 2 12 0 259 6 15 0 217 10 25 0 215 15 35 0 372 1 1 1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262180 0 3 7 372 1 1 0 -1 -1 -1 -1 -1 
+pt_village_farmers Village_Farmers 26 0 4 7 55 5 10 0 231 0 3 0 208 0 3 0 207 1 5 0 236 3 8 0 -1 
+pt_spy_partners Unremarkable_Travellers 2814749767434274 0 3 7 1079 1 1 0 -1 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Serfs 2251799814012954 0 3 7 55 6 7 0 236 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 1125899907170338 0 3 7 1078 1 1 0 -1 -1 -1 -1 -1 
+pt_sacrificed_messenger Sacrificed_Messenger 844424930459682 0 3 7 -1 -1 -1 -1 -1 -1 
+pt_jatu_quest_army Marauding_Jatu_Army 5629499534475271 0 3 312 271 1 12 0 270 10 30 0 269 30 60 0 268 100 200 0 262 1 3 1 -1 
+pt_forager_party Foraging_Party 1407374887747618 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_scout_party Scouts 281474980904994 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_patrol_party Patrol 562949957615650 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_messenger_party Messenger 4194338 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_raider_party Raiders 4503599627632674 0 1 312 -1 -1 -1 -1 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 236 6 30 1 -1 -1 -1 -1 -1 
+pt_kingdom_caravan_party Caravan 7036874421960745 0 1 7 371 1 1 0 59 12 40 0 240 6 12 0 -1 -1 -1 
+pt_prisoner_train_party Prisoner_Train 1407374887747618 0 1 7 -1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 215 5 10 1 -1 -1 -1 -1 -1 
+pt_routed_warriors Routed_Enemies 34 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_center_reinforcements Reinforcements 4503599627370534 0 1 137 58 4 12 0 57 4 12 0 65 4 12 0 -1 -1 -1 
+pt_kingdom_hero_party War_Party 4259877 0 1 137 -1 -1 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_a {!}kingdom_1_reinforcements_a 0 0 1 0 92 2 5 0 88 6 8 0 91 3 6 0 87 3 6 0 86 2 5 0 85 1 2 0 
+pt_kingdom_1_reinforcements_b {!}kingdom_1_reinforcements_b 0 0 1 0 98 0 1 0 90 2 5 0 93 3 6 0 94 3 6 0 92 3 6 0 89 3 6 0 
+pt_kingdom_1_reinforcements_c {!}kingdom_1_reinforcements_c 0 0 1 0 329 1 2 0 99 3 5 0 90 2 5 0 93 2 5 0 95 3 5 0 97 2 3 0 
+pt_kingdom_2_reinforcements_a {!}kingdom_2_reinforcements_a 0 0 1 0 106 3 6 0 109 4 8 0 105 2 5 0 113 1 2 0 104 1 2 0 103 1 2 0 
+pt_kingdom_2_reinforcements_b {!}kingdom_2_reinforcements_b 0 0 1 0 117 0 1 0 114 2 4 0 110 3 5 0 107 2 5 0 108 3 6 0 111 2 5 0 
+pt_kingdom_2_reinforcements_c {!}kingdom_2_reinforcements_c 0 0 1 0 328 0 1 0 118 2 5 0 115 2 4 0 112 2 5 0 117 1 3 0 116 2 3 0 
+pt_kingdom_3_reinforcements_a {!}kingdom_3_reinforcements_a 0 0 1 0 126 3 5 0 125 2 5 0 129 2 5 0 124 2 5 0 123 2 3 0 122 1 2 0 
+pt_kingdom_3_reinforcements_b {!}kingdom_3_reinforcements_b 0 0 1 0 137 1 2 0 128 3 5 0 133 3 5 0 132 2 4 0 126 3 5 0 129 3 5 0 
+pt_kingdom_3_reinforcements_c {!}kingdom_3_reinforcements_c 0 0 1 0 331 0 1 0 135 3 5 0 138 3 5 0 133 2 4 0 137 2 3 0 136 1 2 0 
+pt_kingdom_4_reinforcements_a kingdom_4_reinforcements_a 0 0 1 0 149 2 3 0 154 3 5 0 146 2 5 0 145 2 4 0 144 1 3 0 143 1 2 0 
+pt_kingdom_4_reinforcements_b kingdom_4_reinforcements_b 0 0 1 0 158 0 1 0 151 1 2 0 150 1 2 0 156 1 2 0 147 2 3 0 155 2 4 0 
+pt_kingdom_4_reinforcements_c kingdom_4_reinforcements_c 0 0 1 0 332 0 1 0 153 1 2 0 159 1 2 0 148 1 2 0 158 1 2 0 157 1 2 0 
+pt_kingdom_5_reinforcements_a kingdom_5_reinforcements_a 0 0 1 0 174 4 6 0 171 3 5 0 165 2 4 0 170 2 4 0 164 1 3 0 163 1 2 0 
+pt_kingdom_5_reinforcements_b kingdom_5_reinforcements_b 0 0 1 0 169 0 1 0 168 1 3 0 173 2 4 0 176 2 4 0 172 2 3 0 166 2 4 0 
+pt_kingdom_5_reinforcements_c kingdom_5_reinforcements_c 0 0 1 0 330 0 1 0 177 1 2 0 167 1 3 0 180 1 3 0 169 1 3 0 178 1 2 0 
+pt_kingdom_6_reinforcements_a kingdom_6_reinforcements_a 0 0 1 0 200 3 6 0 189 2 4 0 187 3 6 0 199 2 4 0 186 2 4 0 185 1 2 0 
+pt_kingdom_6_reinforcements_b kingdom_6_reinforcements_b 0 0 1 0 202 0 1 0 192 2 3 0 201 3 5 0 191 2 5 0 200 2 4 0 188 3 6 0 
+pt_kingdom_6_reinforcements_c kingdom_6_reinforcements_c 0 0 1 0 198 1 2 0 203 1 2 0 197 2 3 0 194 2 3 0 196 1 3 0 195 1 2 0 
+pt_lethaldiran_reinforcements_a Lethaldiran_reinforcements_a 0 0 1 0 263 1 2 0 200 3 6 0 187 3 6 0 199 3 4 0 186 2 5 0 185 2 5 0 
+pt_lethaldiran_reinforcements_b Lethaldiran_reinforcements_b 0 0 1 0 261 0 1 0 263 1 2 0 201 2 4 0 188 2 5 0 200 2 4 0 189 3 5 0 
+pt_lethaldiran_reinforcements_c Lethaldiran_reinforcements_c 0 0 1 0 264 0 1 0 261 1 2 0 203 1 3 0 263 1 2 0 194 2 4 0 192 2 5 0 
+pt_boadice_reinforcements_a Boadice_reinforcements_a 0 0 1 0 287 0 1 0 286 3 5 0 284 2 5 0 238 3 5 0 83 3 5 0 82 3 5 0 
+pt_boadice_reinforcements_b Boadice_reinforcements_b 0 0 1 0 288 1 1 0 287 1 2 0 286 2 4 0 285 3 6 0 284 2 4 0 238 2 4 0 
+pt_boadice_reinforcements_c Boadice_reinforcements_c 0 0 1 0 289 0 1 0 332 1 2 0 288 2 3 0 286 1 3 0 285 1 3 0 284 2 3 0 
+pt_frederick_reinforcements_a frederick_reinforcements_a 0 0 1 0 281 1 2 0 279 2 5 0 278 2 5 0 187 2 4 0 186 2 5 0 185 2 4 0 
+pt_frederick_reinforcements_b frederick_reinforcements_b 0 0 1 0 282 0 1 0 281 2 3 0 279 2 4 0 278 3 5 0 188 2 4 0 187 2 4 0 
+pt_frederick_reinforcements_c frederick_reinforcements_c 0 0 1 0 283 0 2 0 282 1 3 0 197 1 2 0 281 1 2 0 194 2 3 0 188 1 2 0 
+pt_donavan_reinforcements_a donavan_reinforcements_a 0 0 1 0 293 2 5 0 294 2 4 0 187 2 4 0 199 2 4 0 186 2 5 0 185 4 6 0 
+pt_donavan_reinforcements_b donavan_reinforcements_b 0 0 1 0 296 0 2 0 293 2 3 0 294 1 3 0 188 2 4 0 187 2 4 0 186 2 4 0 
+pt_donavan_reinforcements_c donavan_reinforcements_c 0 0 1 0 297 0 1 0 296 1 3 0 293 2 3 0 295 1 3 0 191 1 3 0 192 1 3 0 
+pt_adonja_reinforcements_a adonja_reinforcements_a 0 0 1 0 200 3 6 0 187 3 6 0 227 2 5 0 199 2 4 0 186 2 4 0 185 2 4 0 
+pt_adonja_reinforcements_b adonja_reinforcements_b 0 0 1 0 192 2 4 0 201 3 6 0 228 2 5 0 191 2 4 0 200 2 4 0 188 2 4 0 
+pt_adonja_reinforcements_c adonja_reinforcements_c 0 0 1 0 230 1 2 0 203 1 2 0 197 1 3 0 228 2 4 0 196 1 3 0 195 1 2 0 
+pt_rayne_reinforcements_a rayne_reinforcements_a 0 0 1 0 391 1 2 0 200 3 6 0 187 3 6 0 199 2 4 0 186 2 4 0 185 2 4 0 
+pt_rayne_reinforcements_b rayne_reinforcements_b 0 0 1 0 334 2 3 0 391 1 3 0 191 1 2 0 201 3 5 0 188 2 5 0 189 2 4 0 
+pt_rayne_reinforcements_c rayne_reinforcements_c 0 0 1 0 198 0 2 0 203 1 2 0 197 1 3 0 194 1 3 0 196 1 3 0 195 1 2 0 
+pt_roland_reinforcements_a roland_reinforcements_a 0 0 1 0 395 1 2 0 200 3 6 0 187 3 6 0 199 3 6 0 186 2 4 0 185 2 4 0 
+pt_roland_reinforcements_b roland_reinforcements_b 0 0 1 0 338 1 3 0 395 2 4 0 191 1 2 0 201 3 6 0 188 2 4 0 189 3 5 0 
+pt_roland_reinforcements_c roland_reinforcements_c 0 0 1 0 198 0 2 0 203 1 2 0 197 1 3 0 194 1 3 0 196 1 3 0 195 1 2 0 
+pt_alistair_reinforcements_a alistair_reinforcements_a 0 0 1 0 399 1 3 0 200 3 6 0 187 3 6 0 199 2 4 0 186 2 4 0 185 2 4 0 
+pt_alistair_reinforcements_b alistair_reinforcements_b 0 0 1 0 342 1 3 0 399 2 4 0 191 1 2 0 201 2 4 0 188 2 4 0 190 3 6 0 
+pt_alistair_reinforcements_c alistair_reinforcements_c 0 0 1 0 198 0 2 0 203 1 2 0 197 1 3 0 194 1 3 0 196 1 3 0 195 1 2 0 
+pt_steppe_bandit_lair D'Shar_Raider_Lair 562949955519599 0 3 312 219 15 58 0 -1 -1 -1 -1 -1 
+pt_snake_bandit_lair Snake_Cult_Shrine 562949955519599 0 3 312 272 15 58 0 -1 -1 -1 -1 -1 
+pt_forest_bandit_lair Brigand_Camp 562949955519599 0 3 312 218 15 58 0 -1 -1 -1 -1 -1 
+pt_mountain_bandit_lair Mystmountain_Hideout 562949955519599 0 3 312 227 15 58 0 -1 -1 -1 -1 -1 
+pt_sea_raider_lair Vanskerry_Landing 562949955519599 0 3 312 73 15 50 0 -1 -1 -1 -1 -1 
+pt_looter_lair Kidnappers'_Hideout 562949955519599 0 3 312 213 7 12 0 214 8 13 0 -1 -1 -1 -1 
+pt_treasure_lair Treasure_Map_Location 562949955519599 0 3 312 205 15 25 0 -1 -1 -1 -1 -1 
+pt_bandit_lair_templates_end {!}bandit_lair_templates_end 562949953422340 0 2 312 73 15 50 0 -1 -1 -1 -1 -1 
+pt_leaded_looters Band_of_Robbers 2251799813947396 0 3 312 213 3 5 0 -1 -1 -1 -1 -1 
+pt_looters_quest Band_of_Looters 2814749767368708 0 3 312 221 0 6 0 215 1 12 0 213 3 12 0 214 3 15 0 -1 -1 
