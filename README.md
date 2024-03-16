@@ -44,6 +44,7 @@
     - Be able to give money to poor friendly lords (2000 wealth threshold, 30 relation threshold, 8 relation boost) - credits to Leonion and VonDegurechaff
 16. **Companions**
     - Change the hiring cost and personality of companions (hiring costs and some traits changed) - credits to AK47 and Fandom User
+    - Make the equipment of medium- and high-tier companions great again, and lock their inventories up until certain levels Locked their inventories with the level they have upon hiring them.
 17. **Troops and NPCs**
 18. **Items**
     - Arsenal of Al-Aziz - credits to Gorvexon
