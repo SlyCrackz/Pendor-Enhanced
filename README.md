@@ -25,6 +25,7 @@
 12. **Economy and Prosperity**
 13. **Kingdom and Fief Management**
 14. **Quests**
+    - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
 15. **Vassals, Lords and Ladies**
 16. **Companions**
 17. **Troops and NPCs**
