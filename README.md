@@ -27,5 +27,6 @@
     - Upscaled Faces - credits to Methhead123
     - HD Skyboxes2k - credits to GrowlingGuy41
     - Optional Font - credits to Saxodragon
+    - Optional Textures - credits to Saxodragon
 
 
