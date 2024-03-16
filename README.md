@@ -14,9 +14,9 @@
 ### Applied Tweaks
 
 1. **Spawns and Parties**
-    - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - BananaFruit
-    - Change the circumstances of unique spawns deciding to sack a town (25 percent chance/check every 12 hours) - Dalion and Половець
-    - Add automatic notification messages about the location of unique spawns and minor faction armies (once a day) - Leonion
+    - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - credits to BananaFruit
+    - Change the circumstances of unique spawns deciding to sack a town (25 percent chance/check every 12 hours) - credits to Dalion and Половець
+    - Add automatic notification messages about the location of unique spawns and minor faction armies (once a day) - credits to Leonion
     - Change the cost of the sighting report info about spawns from 2000 to 500
     - Change the level-multiplier of the player determining the size of various parties on the map (From 4 to 5) - credits to Dalion 
     - Change the patrolling radius of various patrols (From 5 to 3) - credits to Vetrogor 
