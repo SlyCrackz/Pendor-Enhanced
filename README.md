@@ -24,6 +24,9 @@
 11. **Loot**
     - Fix the problem about loot depending on the order of troops killed - credits to Vetrogor, Tingyun and rubik 
 12. **Economy and Prosperity**
+    - Ablility to directly sell garrisoned prisoners to ransom brokers - credits to Dalion 
+    - Increase the prosperity of villages by investing money into them - credits to Leonion 10k denars spent, 8 relation bonus, 120 prosperity threshold, 60 prosperity bonus, 180 prosperity cap.
+
 13. **Kingdom and Fief Management**
 14. **Quests**
     - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
