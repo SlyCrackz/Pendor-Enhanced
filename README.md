@@ -11,6 +11,7 @@
     - Arena Scene Overhaul - credits to Adorno
 8. **Field and Village Battles**
 9. **Sieges**
+    - Disable siege defenders from charging out - credits to Vetrogor 
 10. **Battles and Fights in General**
     - Dynamic reassignment and reequipment - credits to Vetrogor
     - Allow crouching and bracing spears
