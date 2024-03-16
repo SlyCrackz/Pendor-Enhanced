@@ -30,5 +30,6 @@
     - Optional Textures - credits to Saxodragon
     - Alternate Ocean and River - credits to AWOIAF
     - Shaders - credits to idk, these were grabbed from somewhere
+    - Polished Landscapes - credits to Vetrogor
 
 
