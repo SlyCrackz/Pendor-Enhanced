@@ -19,6 +19,7 @@
     - Enable the advanced formations from With Fire and Sword
     - Sort the post-battle kill counter of NPCs in descending order - credits to Vetrogor 
 11. **Loot**
+    - Fix the problem about loot depending on the order of troops killed - credits to Vetrogor, Tingyun and rubik 
 12. **Economy and Prosperity**
 13. **Kingdom and Fief Management**
 14. **Quests**
