@@ -11,7 +11,8 @@
     - Arena Scene Overhaul - credits to Adorno
 8. **Field and Village Battles**
 9. **Sieges**
-    - Disable siege defenders from charging out - credits to Vetrogor 
+    - Disable siege defenders from charging out - credits to Vetrogor
+    - Adjust the requirements needed for the defenders to surrender (From 100 and 30 days to 28 and 7 days, Advantage to surrender from 5 and 3 to 8) - credits to Dalion and TheMageLord
 10. **Battles and Fights in General**
     - Dynamic reassignment and reequipment - credits to Vetrogor
     - Allow crouching and bracing spears

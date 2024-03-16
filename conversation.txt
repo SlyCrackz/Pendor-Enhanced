@@ -974,8 +974,8 @@ dlga_start:close_window.18 4095 0  6 31 2 144115188075856070 17 200 1 5044031582
 dlga_start:player_siege_castle_commander_1 4095 0  1 31 2 144115188075856070 7 What_do_you_want?  352  0 NO_VOICEOVER 
 dlga_player_siege_castle_commander_1:player_siege_ask_surrender 69631 352  0 Surrender!_Your_situation_is_hopeless!  353  0 NO_VOICEOVER 
 dlga_player_siege_castle_commander_1:close_window 69631 352  0 Nothing._I'll_leave_you_now.  6  0 NO_VOICEOVER 
-dlga_player_siege_ask_surrender:player_siege_ask_surrender_treatment 4095 353  3 2147483678 2 144115188075855903 2000 2122 3 1224979098644774912 144115188075855903 5 30 2 144115188075855904 1224979098644774912 Perhaps..._Do_you_give_your_word_of_honor_that_we'll_be_treated_well?  354  0 NO_VOICEOVER 
-dlga_player_siege_ask_surrender:player_siege_ask_leave_unmolested 4095 353  3 2147483678 2 144115188075855903 4000 2122 3 1224979098644774912 144115188075855903 3 30 2 144115188075855904 1224979098644774912 We_are_ready_to_leave_this_castle_to_you_and_march_away_if_you_give_me_your_word_of_honor_that_you'll_let_us_leave_unmolested.  355  0 NO_VOICEOVER 
+dlga_player_siege_ask_surrender:player_siege_ask_surrender_treatment 4095 353  2 2122 3 1224979098644774912 144115188075855903 8 30 2 144115188075855904 1224979098644774912 Perhaps..._Do_you_give_your_word_of_honor_that_we'll_be_treated_well?  354  0 NO_VOICEOVER 
+dlga_player_siege_ask_surrender:player_siege_ask_leave_unmolested 4095 353  2 2122 3 1224979098644774912 144115188075855903 8 30 2 144115188075855904 1224979098644774912 We_are_ready_to_leave_this_castle_to_you_and_march_away_if_you_give_me_your_word_of_honor_that_you'll_let_us_leave_unmolested.  355  0 NO_VOICEOVER 
 dlga_player_siege_ask_surrender:close_window 4095 353  0 Surrender?_Hah!_We_can_hold_these_walls_until_we_all_die_of_old_age.  6  0 NO_VOICEOVER 
 dlga_player_siege_ask_surrender_treatment:player_siege_ask_surrender_treatment_reject 69631 354  0 I_give_you_nothing._Surrender_now_or_prepare_to_die!  356  0 NO_VOICEOVER 
 dlga_player_siege_ask_surrender_treatment_reject:close_window 4095 356  0 Bastard._We_will_fight_you_to_the_last_man!  6  0 NO_VOICEOVER 
