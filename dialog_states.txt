@@ -1881,3 +1881,6 @@ send_reinf_to_fief1
 send_reinf_to_fief2
 send_reinf_to_fief3
 send_reinf_to_fief4
+villages_up
+villages_up1
+villages_up2
