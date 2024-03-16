@@ -17,6 +17,7 @@
     - Dynamic reassignment and reequipment - credits to Vetrogor
     - Allow crouching and bracing spears
     - Enable the advanced formations from With Fire and Sword
+    - Sort the post-battle kill counter of NPCs in descending order - credits to Vetrogor 
 11. **Loot**
 12. **Economy and Prosperity**
 13. **Kingdom and Fief Management**
