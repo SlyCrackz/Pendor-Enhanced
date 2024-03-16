@@ -47,6 +47,7 @@
 16. **Companions**
     - Change the hiring cost and personality of companions (hiring costs and some traits changed) - credits to AK47 and Fandom User
     - Make the equipment of medium- and high-tier companions great again, and lock their inventories up until certain levels Locked their inventories with the level they have upon hiring them.
+    - Make all companions contribute their prisoner management skill to the total prisoner limit - credits to Leonion 
 17. **Troops and NPCs**
 18. **Items**
     - Arsenal of Al-Aziz - credits to Gorvexon
