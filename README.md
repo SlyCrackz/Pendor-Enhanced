@@ -24,4 +24,4 @@
 19. **Skills**
 20. **Cheats**
 21. **Miscellaneous**
-      
+    - Upscaled Faces - credits to Methhead123
