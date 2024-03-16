@@ -42,6 +42,7 @@
     - Ransom imprisoned lords from other friendly lords (Fief owner over 40 relation points with you, 5k denars to ransom lord, 10k denars to ransom monarch) - credits to Leonion
     - Revise the household troop allocation and add new ones to lords
     - Be able to give money to poor friendly lords (2000 wealth threshold, 30 relation threshold, 8 relation boost) - credits to Leonion and VonDegurechaff
+    - Accessing the equipment of any lord that joined your own faction - credits to Leonion
 16. **Companions**
     - Change the hiring cost and personality of companions (hiring costs and some traits changed) - credits to AK47 and Fandom User
     - Make the equipment of medium- and high-tier companions great again, and lock their inventories up until certain levels Locked their inventories with the level they have upon hiring them.

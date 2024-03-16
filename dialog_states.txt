@@ -1876,3 +1876,4 @@ village_sponsor
 castle_horse_training_free
 castle_horse_training_free1
 lord_sponsor
+lord_change_equipment
