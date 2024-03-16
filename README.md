@@ -12,6 +12,7 @@
 4. **Honor and Renown**
 5. **Relations**
     - Make Inquisition rightfully hostile towards Singalians and Outlaws too
+    - Change the relation penalty of rejecting an invitation for vassalage (From -3 and -10 to 0 and 0) - credits to Dalion 
 6. **Morale**
     - Disabled morale trigger (this fixes stutter in large battles) - credits to Vetrogor
 7. **Tournaments and Arenas**
