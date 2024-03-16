@@ -11,6 +11,8 @@
 
 **Note**: Only one of the above methods is needed to enjoy Pendor-Enhanced. 
 
+### Applied Tweaks
+
 1. **Spawns and Parties**
     - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - BananaFruit
     - Change the circumstances of unique spawns deciding to sack a town (25 percent chance/check every 12 hours) - Dalion and Половець
