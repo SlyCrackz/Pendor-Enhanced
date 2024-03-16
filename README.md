@@ -44,6 +44,7 @@
     - Ablility to directly sell garrisoned prisoners to ransom brokers - credits to Dalion 
     - Increase the prosperity of villages by investing money into them (10k denars spent, 8 relation bonus, 120 prosperity threshold, 60 prosperity bonus, 180 prosperity cap) - credits to Leonion
 13. **Kingdom and Fief Management**
+    - Add more kingdom colors for the player's faction - credits to DarkOmegaMK2
 14. **Quests**
     - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
 15. **Vassals, Lords and Ladies**
