@@ -45,7 +45,8 @@
     - Increase the prosperity of villages by investing money into them (10k denars spent, 8 relation bonus, 120 prosperity threshold, 60 prosperity bonus, 180 prosperity cap) - credits to Leonion
 13. **Kingdom and Fief Management**
     - Add more kingdom colors for the player's faction - credits to DarkOmegaMK2
-    - Disable the disbanding of troops over lvl 31 from a garrison when assigning the fief to you or your husband - credits to Dalion Changed the cap to lvl 40 rather than disabling the feature.
+    - Disable the disbanding of troops over lvl 31 from a garrison when assigning the fief to you or your husband - credits to Dalion
+    - Send troops from your party to any walled fief you own - credits to Leonion and VonDegurechaff
 14. **Quests**
     - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
 15. **Vassals, Lords and Ladies**

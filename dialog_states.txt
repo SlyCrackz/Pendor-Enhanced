@@ -1877,3 +1877,7 @@ castle_horse_training_free
 castle_horse_training_free1
 lord_sponsor
 lord_change_equipment
+send_reinf_to_fief1
+send_reinf_to_fief2
+send_reinf_to_fief3
+send_reinf_to_fief4
