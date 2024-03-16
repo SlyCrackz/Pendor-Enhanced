@@ -6,6 +6,7 @@
     - Overhaul of KO upgrade system - credits to Leonion
     - Change the rate and the limit of the free KO garrison reinforcement to match AI - credits to Vetrogor and CRASHS
     - Change the amount, size, and frequency of KO patrols - credits to Timon and Leonion 
+    - Receive an honorary reward for conquering the Snake Cult Stronghold for the knighthood order you joined - credits to VonDegurechaff
 3. **Custom Knighthood Order**
     - Unlock Sarleon and Ravenstern Armored Warhorses for your CKO - credits to VonDegurechaff 
 4. **Honor and Renown**
