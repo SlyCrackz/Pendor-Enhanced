@@ -29,6 +29,6 @@
     - Optional Font - credits to Saxodragon
     - Optional Textures - credits to Saxodragon
     - Alternate Ocean and River - credits to AWOIAF
-    
+    - Shaders - credits to idk, these were grabbed from somewhere
 
 
