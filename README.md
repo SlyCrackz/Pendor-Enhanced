@@ -13,6 +13,7 @@
 5. **Relations**
     - Make Inquisition rightfully hostile towards Singalians and Outlaws too
     - Change the relation penalty of rejecting an invitation for vassalage (From -3 and -10 to 0 and 0) - credits to Dalion 
+    - Change how often and how much village relation points Schools give after being built (From 1 to 2) - credits to TheMageLord 
 6. **Morale**
     - Disabled morale trigger (this fixes stutter in large battles) - credits to Vetrogor
 7. **Tournaments and Arenas**
