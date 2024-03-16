@@ -7,7 +7,7 @@
 
 ### Option 2: Automated Installer
 - **Download**: Find `Pendor-Enhanced-Installer.7z` on the [releases page](https://github.com/SlyCrackz/Pendor-Enhanced/releases), which includes the installer EXE.
-- **Install**: Unzip and run `Setup.exe` inside the folder to automatically install and apply tweaks. When prompted, select the `Modules` folder in your Warband installation as the install location.
+- **Install**: Unzip and run `Setup.exe` inside the folder to automatically install Prophesy of Pendor 3.9.5 and apply tweaks. When prompted, select the `Modules` folder in your Warband installation as the install location.
 
 **Note**: Only one of the above methods is needed to enjoy Pendor-Enhanced. 
 
