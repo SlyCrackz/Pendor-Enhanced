@@ -12,6 +12,7 @@
 9. **Sieges**
 10. **Battles and Fights in General**
     - Dynamic reassignment and reequipment - credits to Vetrogor
+    - Allow crouching and bracing spears
 11. **Loot**
 12. **Economy and Prosperity**
 13. **Kingdom and Fief Management**
