@@ -31,5 +31,7 @@
     - Alternate Ocean and River - credits to AWOIAF
     - Shaders - credits to idk, these were grabbed from somewhere
     - Polished Landscapes - credits to Vetrogor
+    - Relocate Sange Safid and Tuldar Fortress to more appropriate locations - credits to Dalion
+
 
 
