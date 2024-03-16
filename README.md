@@ -3,6 +3,7 @@
 1. **Spawns and Parties**
 2. **Knighthood Orders**
     - Be able to create KO chapters in any walled fief of your own kingdom - credits to SirArtyr, Leonion and VonDegurechaff 
+    - Overhaul of KO upgrade system - credits to Leonion
 3. **Custom Knighthood Order**
     - Unlock Sarleon and Ravenstern Armored Warhorses for your CKO - credits to VonDegurechaff 
 4. **Honor and Renown**
