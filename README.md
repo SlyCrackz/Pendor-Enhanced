@@ -43,6 +43,7 @@
     - Revise the household troop allocation and add new ones to lords
     - Be able to give money to poor friendly lords (2000 wealth threshold, 30 relation threshold, 8 relation boost) - credits to Leonion and VonDegurechaff
     - Accessing the equipment of any lord that joined your own faction - credits to Leonion
+    - Add an option to keep your fiefs while telling your king to release you from your oath to him - credits to Leonion and VonDegurechaff 
 16. **Companions**
     - Change the hiring cost and personality of companions (hiring costs and some traits changed) - credits to AK47 and Fandom User
     - Make the equipment of medium- and high-tier companions great again, and lock their inventories up until certain levels Locked their inventories with the level they have upon hiring them.
