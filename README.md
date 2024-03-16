@@ -3,6 +3,7 @@
 1. **Spawns and Parties**
     - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - BananaFruit
     - Change the circumstances of unique spawns deciding to sack a town (25 percent chance/check every 12 hours) - Dalion and Половець
+    - Add automatic notification messages about the location of unique spawns and minor faction armies (once a day) - Leonion
 2. **Knighthood Orders**
     - Be able to create KO chapters in any walled fief of your own kingdom - credits to SirArtyr, Leonion and VonDegurechaff 
     - Overhaul of KO upgrade system - credits to Leonion
