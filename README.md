@@ -10,6 +10,7 @@
 7. **Tournaments and Arenas**
     - Arena Scene Overhaul - credits to Adorno
     - Add a notification about Noldor Tournaments being held at Elacrai - credits to BananaFruit
+    - Change the amount of renown, relation, denars and experience you get after winning a tournament (From 2k denars to 5k denars, from 20 renown to 30 renown, from 250exp to 1k exp) - credits to TheMageLord and tommylaw 
 8. **Field and Village Battles**
 9. **Sieges**
     - Disable siege defenders from charging out - credits to Vetrogor
