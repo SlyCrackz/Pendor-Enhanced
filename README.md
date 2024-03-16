@@ -6,6 +6,7 @@
 4. **Honor and Renown**
 5. **Relations**
 6. **Morale**
+    - Disabled morale trigger (this fixes stutter in large battles) - credits to Vetrogor
 7. **Tournaments and Arenas**
     - Arena Scene Overhaul - credits to Adorno
 8. **Field and Village Battles**
