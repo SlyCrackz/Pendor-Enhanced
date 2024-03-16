@@ -47,6 +47,7 @@
     - Add more kingdom colors for the player's faction - credits to DarkOmegaMK2
     - Disable the disbanding of troops over lvl 31 from a garrison when assigning the fief to you or your husband - credits to Dalion
     - Send troops from your party to any walled fief you own - credits to Leonion and VonDegurechaff
+    - Change the building time, cost and auto-repairing frequency of fief improvements (Divisor set to 250 (was 150), erased the additional 3 days added on top) - credits to BananaFruit, Damon, and VonDegurechaff    
 14. **Quests**
     - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
 15. **Vassals, Lords and Ladies**
