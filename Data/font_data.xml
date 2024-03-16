@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FontData width="2048" height="1024" padding="10" font_size="72" font_scale="90" line_spacing="125">
+<FontDetails>
+    <character code="10"  postshift="9" />
+    <character code="13"  postshift="9" />
+    <character code="32"  postshift="9" /> <!-- espace -->
+    <character code="33"  page="0" u="462"  v="400"  w="492"  h="469"  preshift="-8"  yadjust="58"  postshift="26" />  <!-- ! -->
+    <character code="34"  page="0" u="1274" v="597"  w="1308" h="634"  preshift="-8"  yadjust="55"  postshift="27" />  <!-- " -->
+    <character code="35"  page="0" u="356"  v="535"  w="409"  h="593"  preshift="-12"  yadjust="50"  postshift="41" /> <!-- # -->
+    <character code="36"  page="0" u="1557" v="175"  w="1601" h="252"  preshift="-9"  yadjust="56"  postshift="38" />  <!-- $ -->
+    <character code="37"  page="0" u="628"  v="254"  w="691"  h="328"  preshift="-8"  yadjust="57"  postshift="53" /> <!-- % -->
+    <character code="38"  page="0" u="1619" v="400"  w="1684" h="467"  preshift="-8"  yadjust="55"  postshift="55" />  <!-- & -->
+    <character code="39"  page="0" u="2021" v="535"  w="2046" h="572"  preshift="-8"  yadjust="55"  postshift="19" />  <!-- ' -->
+    <character code="40"  page="0" u="169"  v="254"  w="203"  h="329"  preshift="-6"  yadjust="55"  postshift="27" />  <!-- ( -->
+    <character code="41"  page="0" u="2013" v="95"   w="2048" h="170"  preshift="-8"  yadjust="55"  postshift="30" /> <!-- ) -->
+    <character code="42"  page="0" u="891"  v="597"  w="934"  h="640"  preshift="-7"  yadjust="61"  postshift="39" />  <!-- * -->
+    <character code="43"  page="0" u="745"  v="535"  w="798"  h="589"  preshift="-7"  yadjust="45"  postshift="48" /> <!-- + -->
+    <character code="44"  page="0" u="1243" v="597"  w="1274" h="635"  preshift="-11"  yadjust="17"  postshift="25" /> <!-- , -->
+    <character code="45"  page="0" u="132"  v="644"  w="170"  h="671"  preshift="-11"  yadjust="31"  postshift="28" /> <!-- - -->
+    <character code="46"  page="0" u="2012" v="597"  w="2040" h="626"  preshift="-8"  yadjust="18"  postshift="21" />  <!-- . -->
+    <character code="47"  page="0" u="589"  v="254"  w="628"  h="328"  preshift="-8"  yadjust="56"  postshift="31" /> <!-- / -->
+    <character code="48"  page="0" u="658"  v="535"  w="709"  h="591"  preshift="-8"  yadjust="45"  postshift="44" />  <!-- 0 -->
+    <character code="49"  page="0" u="618"  v="535"  w="658"  h="591"  preshift="-9"  yadjust="45"  postshift="32" /> <!-- 1 -->
+    <character code="50"  page="0" u="568"  v="535"  w="618"  h="591"  preshift="-10"  yadjust="45"  postshift="40" /> <!-- 2 -->
+    <character code="51"  page="0" u="50"   v="535"  w="94"   h="597"  preshift="-10"  yadjust="45"  postshift="36" /> <!-- 3 -->
+    <character code="52"  page="0" u="0"    v="535"  w="50"   h="597"  preshift="-11"  yadjust="45"  postshift="39" /> <!-- 4 -->
+    <character code="53"  page="0" u="1573" v="469"  w="1618" h="534"  preshift="-10"  yadjust="48"  postshift="37" /> <!-- 5 -->
+    <character code="54"  page="0" u="1932" v="469"  w="1978" h="532"  preshift="-8"  yadjust="52"  postshift="39" />  <!-- 6 -->
+    <character code="55"  page="0" u="94"   v="535"  w="141"  h="596"  preshift="-9"  yadjust="44"  postshift="37" /> <!-- 7 -->
+    <character code="56"  page="0" u="1886" v="469"  w="1932" h="532"  preshift="-8"  yadjust="52"  postshift="42" />  <!-- 8 -->
+    <character code="57"  page="0" u="1840" v="469"  w="1886" h="532"  preshift="-9"  yadjust="45"  postshift="39" /> <!-- 9 -->
+    <character code="58"  page="0" u="2019" v="329"  w="2047" h="377"  preshift="-3"  yadjust="37"  postshift="23" />  <!-- : -->
+    <character code="59"  page="0" u="325"  v="535"  w="356"  h="593"  preshift="-8"  yadjust="36"  postshift="23" /> <!-- ; -->
+    <character code="60"  page="0" u="1933" v="535"  w="1983" h="583"  preshift="-10"  yadjust="42"  postshift="42" /> <!-- < -->
+    <character code="61"  page="0" u="1597" v="597"  w="1650" h="632"  preshift="-11"  yadjust="36"  postshift="42" /> <!-- = -->
+    <character code="62"  page="0" u="1883" v="535"  w="1933" h="583"  preshift="-9"  yadjust="42"  postshift="42" />  <!-- > -->
+    <character code="63"  page="0" u="423"  v="400"  w="462"  h="469"  preshift="-7"  yadjust="58"  postshift="32" />  <!-- ? -->
+    <character code="64"  page="0" u="1484" v="175"  w="1557" h="252"  preshift="-10"  yadjust="53"  postshift="64" /> <!-- @ -->
+	
+    <character code="65"  page="0" u="1262" v="469"  w="1325" h="535"  preshift="-7" yadjust="55"  postshift="55" /> <!-- A -->
+    <character code="66"  page="0" u="1208" v="469"  w="1262" h="535"  preshift="-6"  yadjust="55"  postshift="47" /> <!-- B -->
+    <character code="67"  page="0" u="1151" v="469"  w="1208" h="535"  preshift="-5"  yadjust="55"  postshift="51" /> <!-- C -->
+    <character code="68"  page="0" u="1089" v="469"  w="1151" h="535"  preshift="-5"  yadjust="55"  postshift="56" /> <!-- D -->
+    <character code="69"  page="0" u="1036" v="469"  w="1089" h="535"  preshift="-6"  yadjust="55"  postshift="46" /> <!-- E -->
+    <character code="70"  page="0" u="985"  v="469"  w="1036" h="535"  preshift="-5"  yadjust="55"  postshift="42" /> <!-- F -->
+    <character code="71"  page="0" u="927"  v="469"  w="985"  h="535"  preshift="-7"  yadjust="55"  postshift="52" /> <!-- G -->
+    <character code="72"  page="0" u="862"  v="469"  w="927"  h="535"  preshift="-6"  yadjust="55"  postshift="57" /> <!-- H -->
+    <character code="73"  page="0" u="824"  v="469"  w="862"  h="535"  preshift="-5"  yadjust="55"  postshift="31" /> <!-- I -->
+    <character code="74"  page="0" u="130"  v="254"  w="169"  h="329"  preshift="-6"  yadjust="55"  postshift="30" /> <!-- J -->
+    <character code="75"  page="0" u="765"  v="469"  w="824"  h="535"  preshift="-6"  yadjust="55"  postshift="50" /> <!-- K -->
+    <character code="76"  page="0" u="714"  v="469"  w="765"  h="535"  preshift="-7"  yadjust="55"  postshift="44" /> <!-- L -->
+    <character code="77"  page="0" u="1546" v="400"  w="1619" h="467"  preshift="-7"  yadjust="55"  postshift="64" /> <!-- M -->
+    <character code="78"  page="0" u="907"  v="400"  w="971"  h="468"  preshift="-7"  yadjust="55"  postshift="54" /> <!-- N -->
+    <character code="79"  page="0" u="652"  v="469"  w="714"  h="535"  preshift="-5"  yadjust="55"  postshift="55" /> <!-- O -->
+    <character code="80"  page="0" u="599"  v="469"  w="652"  h="535"  preshift="-6"  yadjust="55"  postshift="44" /> <!-- P -->
+    <character code="81"  page="0" u="345"  v="175"  w="418"  h="254"  preshift="-7"  yadjust="55"  postshift="55" /> <!-- Q -->
+    <character code="82"  page="0" u="541"  v="469"  w="599"  h="535"  preshift="-4"  yadjust="55"  postshift="49" /> <!-- R -->
+    <character code="83"  page="0" u="492"  v="469"  w="541"  h="535"  preshift="-5"  yadjust="55"  postshift="42" /> <!-- S -->
+    <character code="84"  page="0" u="434"  v="469"  w="492"  h="535"  preshift="-6"  yadjust="56"  postshift="46" /> <!-- T -->
+    <character code="85"  page="0" u="371"  v="469"  w="434"  h="535"  preshift="-8"  yadjust="55"  postshift="53" /> <!-- U -->
+    <character code="86"  page="0" u="307"  v="469"  w="371"  h="535"  preshift="-6"  yadjust="55"  postshift="50" /> <!-- V -->
+    <character code="87"  page="0" u="222"  v="469"  w="307"  h="535"  preshift="-5"  yadjust="55"  postshift="70" /> <!-- W -->
+    <character code="88"  page="0" u="1508" v="469"  w="1573" h="534"  preshift="-9"  yadjust="55"  postshift="53" /> <!-- X -->
+    <character code="89"  page="0" u="1486" v="400"  w="1546" h="467"  preshift="-9" yadjust="56"  postshift="43" /> <!-- Y -->
+    <character code="90"  page="0" u="1454" v="469"  w="1508" h="534"  preshift="-8"  yadjust="54"  postshift="46" /> <!-- Z -->
+	
+    <character code="91"  page="0" u="1438" v="254"  w="1471" h="327"  preshift="-5"  yadjust="54"  postshift="28" /> <!-- [ -->
+    <character code="92"  page="0" u="550"  v="254"  w="589"  h="328"  preshift="-10" yadjust="56"  postshift="30" /> <!-- \ -->
+    <character code="93"  page="0" u="1405" v="254"  w="1438" h="327"  preshift="-11" yadjust="54"  postshift="28" /> <!-- ] -->
+    <character code="94"  page="0" u="1713" v="535"  w="1761" h="585"  preshift="-9"  yadjust="43"  postshift="42" /> <!-- ^ -->
+    <character code="95"  page="0" u="302"  v="644"  w="355"  h="669"  preshift="-13" yadjust="5"   postshift="38" /> <!-- _ -->
+    <character code="96"  page="0" u="1562" v="597"  w="1597" h="632"  preshift="-8"  yadjust="60"  postshift="34" /> <!-- ` -->
+	
+    <character code="97"  page="0" u="1469" v="535"  w="1518" h="588"  preshift="-9"  yadjust="42"  postshift="39" /> <!-- a -->
+    <character code="98"  page="0" u="1353" v="254"  w="1405" h="327"  preshift="-12"  yadjust="62"  postshift="44" /> <!-- b -->
+    <character code="99"  page="0" u="1424" v="535"  w="1469" h="588"  preshift="-10"  yadjust="42"  postshift="36" /> <!-- c -->
+    <character code="100" page="0" u="1298" v="254"  w="1353" h="327"  preshift="-10"  yadjust="62"  postshift="44" /> <!-- d -->
+    <character code="101" page="0" u="1379" v="535"  w="1424" h="588"  preshift="-10"  yadjust="42"  postshift="39" /> <!-- e -->
+    <character code="102" page="0" u="197"  v="329"  w="247"  h="400"  preshift="-10"  yadjust="61"  postshift="31" /> <!-- f -->
+    <character code="103" page="0" u="373"  v="400"  w="423"  h="469"  preshift="-10"  yadjust="43"  postshift="41" /> <!-- g -->
+    <character code="104" page="0" u="1244" v="254"  w="1298" h="327"  preshift="-10"  yadjust="62"  postshift="45" /> <!-- h -->
+    <character code="105" page="0" u="1411" v="329"  w="1445" h="399"  preshift="-8"  yadjust="59"  postshift="25" /> <!-- i -->
+    <character code="106" page="0" u="433"  v="0"    w="464"  h="87"   preshift="-11"  yadjust="60"  postshift="24" /> <!-- j -->
+    <character code="107" page="0" u="1192" v="254"  w="1244" h="327"  preshift="-10"  yadjust="62"  postshift="43" /> <!-- k -->
+    <character code="108" page="0" u="1158" v="254"  w="1192" h="327"  preshift="-10"  yadjust="62"  postshift="27" /> <!-- l -->
+    <character code="109" page="0" u="1306" v="535"  w="1379" h="588"  preshift="-10"  yadjust="42"  postshift="65" /> <!-- m -->
+    <character code="110" page="0" u="1252" v="535"  w="1306" h="588"  preshift="-10"  yadjust="42"  postshift="47" /> <!-- n -->
+    <character code="111" page="0" u="1203" v="535"  w="1252" h="588"  preshift="-9"  yadjust="42"  postshift="41" /> <!-- o -->
+    <character code="112" page="0" u="855"  v="400"  w="907"  h="468"  preshift="-11"  yadjust="42"  postshift="46" /> <!-- p -->
+    <character code="113" page="0" u="322"  v="400"  w="373"  h="469"  preshift="-10"  yadjust="43"  postshift="41" /> <!-- q -->
+    <character code="114" page="0" u="1618" v="535"  w="1661" h="587"  preshift="-10"  yadjust="42"  postshift="36" /> <!-- r -->
+    <character code="115" page="0" u="1161" v="535"  w="1203" h="588"  preshift="-9"  yadjust="42"  postshift="35" />  <!-- s -->
+    <character code="116" page="0" u="283"  v="535"  w="325"  h="593"  preshift="-11"  yadjust="47"  postshift="32" /> <!-- t -->
+    <character code="117" page="0" u="1104" v="535"  w="1161" h="588"  preshift="-11"  yadjust="42"  postshift="45" /> <!-- u -->
+    <character code="118" page="0" u="1051" v="535"  w="1104" h="588"  preshift="-14" yadjust="42"  postshift="42" />  <!-- v -->
+    <character code="119" page="0" u="981"  v="535"  w="1051" h="588"  preshift="-13" yadjust="42"  postshift="58" />  <!-- w -->
+    <character code="120" page="0" u="1661" v="535"  w="1713" h="586"  preshift="-11"  yadjust="41"  postshift="42" /> <!-- x -->
+    <character code="121" page="0" u="802"  v="400"  w="855"  h="468"  preshift="-12" yadjust="42"  postshift="44" />  <!-- y -->
+    <character code="122" page="0" u="1571" v="535"  w="1618" h="587"  preshift="-9"  yadjust="42"  postshift="39" /> <!-- z -->
+
+    <character code="123" page="0" u="512"  v="254"  w="550"  h="328"  preshift="1"  yadjust="55"  postshift="24" /> <!-- { -->
+    <character code="124" page="0" u="25"   v="0"    w="50"   h="95"   preshift="10" yadjust="66"  postshift="20" /> <!-- | -->
+    <character code="125" page="0" u="474"  v="254"  w="512"  h="328"  preshift="-8"  yadjust="55"  postshift="16" /> <!-- } -->
+    <character code="126" page="0" u="0"    v="644"  w="49"   h="673"  preshift="3"  yadjust="33"  postshift="30" /> <!-- ~ -->
+	
+    <character code="160"                                                                          postshift="9" />  <!-- espace insécable -->
+    <character code="161" page="0" u="292"  v="400"  w="322"  h="469"  preshift="-8"  yadjust="58"  postshift="26" />
+    <character code="162" page="0" u="1715" v="175"  w="1760" h="251"  preshift="2"  yadjust="55"  postshift="24" />
+    <character code="163" page="0" u="1789" v="469"  w="1840" h="532"  preshift="2"  yadjust="52"  postshift="32" />
+    <character code="164" page="0" u="572"  v="597"  w="619"  h="644"  preshift="2"  yadjust="49"  postshift="25" />
+    <character code="165" page="0" u="456"  v="535"  w="511"  h="592"  preshift="1"  yadjust="46"  postshift="32" />
+    <character code="166" page="0" u="0"    v="0"    w="25"   h="95"   preshift="10" yadjust="66"  postshift="21" />
+    <character code="167" page="0" u="1727" v="254"  w="1777" h="326"  preshift="2"  yadjust="55"  postshift="29" />
+    <character code="168" page="0" u="170"  v="644"  w="208"  h="670"  preshift="5"  yadjust="55"  postshift="23" />
+    <character code="169" page="0" u="1727" v="469"  w="1789" h="532"  preshift="3"  yadjust="52"  postshift="43" />
+    <character code="170" page="0" u="1016" v="597"  w="1056" h="638"  preshift="2"  yadjust="55"  postshift="18" />
+    <character code="171" page="0" u="846"  v="597"  w="891"  h="642"  preshift="1"  yadjust="38"  postshift="24" />
+    <character code="172" page="0" u="1091" v="597"  w="1142" h="636"  preshift="1"  yadjust="30"  postshift="30" />
+    <character code="174" page="0" u="1835" v="535"  w="1883" h="583"  preshift="2"  yadjust="59"  postshift="27" />
+    <character code="175" page="0" u="261"  v="644"  w="302"  h="669"  preshift="3"  yadjust="56"  postshift="22" />
+    <character code="176" page="0" u="1206" v="597"  w="1243" h="635"  preshift="2"  yadjust="55"  postshift="16" />
+    <character code="177" page="0" u="141"  v="535"  w="194"  h="595"  preshift="1"  yadjust="45"  postshift="30" />
+    <character code="178" page="0" u="531"  v="597"  w="572"  h="644"  preshift="1"  yadjust="60"  postshift="18" />
+    <character code="179" page="0" u="496"  v="597"  w="531"  h="644"  preshift="2"  yadjust="61"  postshift="15" />
+    <character code="180" page="0" u="1527" v="597"  w="1562" h="632"  preshift="8"  yadjust="60"  postshift="22" />
+    <character code="181" page="0" u="1358" v="329"  w="1411" h="399"  preshift="3"  yadjust="43"  postshift="31" />
+    <character code="182" page="0" u="1675" v="254"  w="1727" h="326"  preshift="3"  yadjust="55"  postshift="33" />
+    <character code="183" page="0" u="104"  v="644"  w="132"  h="672"  preshift="4"  yadjust="30"  postshift="11" />
+    <character code="184" page="0" u="1173" v="597"  w="1206" h="635"  preshift="7"  yadjust="12"  postshift="23" />
+    <character code="185" page="0" u="699"  v="597"  w="733"  h="643"  preshift="2"  yadjust="60"  postshift="12" />
+    <character code="186" page="0" u="934"  v="597"  w="974"  h="639"  preshift="2"  yadjust="55"  postshift="18" />
+    <character code="187" page="0" u="801"  v="597"  w="846"  h="642"  preshift="3"  yadjust="38"  postshift="24" />
+    <character code="188" page="0" u="410"  v="254"  w="474"  h="328"  preshift="2"  yadjust="58"  postshift="42" />
+    <character code="189" page="0" u="63"   v="254"  w="130"  h="329"  preshift="2"  yadjust="58"  postshift="45" />
+    <character code="190" page="0" u="346"  v="254"  w="410"  h="328"  preshift="2"  yadjust="58"  postshift="42" />
+    <character code="191" page="0" u="763"  v="400"  w="802"  h="468"  preshift="-7"  yadjust="58"  postshift="32" />  <!-- ¿ -->
+    <character code="192" page="0" u="1563" v="95"   w="1626" h="175"  preshift="-7" yadjust="68"  postshift="55" /> <!-- À -->
+    <character code="193" page="0" u="1500" v="95"   w="1563" h="175"  preshift="-7" yadjust="66"  postshift="55" /> <!-- /Á -->
+    <character code="194" page="0" u="1437" v="95"   w="1500" h="175"  preshift="-7" yadjust="68"  postshift="55" /> <!-- Â -->
+    <character code="195" page="0" u="1207" v="175"  w="1270" h="253"  preshift="-7" yadjust="66"  postshift="55" /> <!-- Ã -->
+    <character code="196" page="0" u="1144" v="175"  w="1207" h="253"  preshift="-7" yadjust="66"  postshift="55" /> <!-- Ä -->
+    <character code="197" page="0" u="282"  v="175"  w="345"  h="254"  preshift="-7" yadjust="67"  postshift="55" /> <!-- Å -->
+    <character code="198" page="0" u="1411" v="400"  w="1486" h="467"  preshift="-1" yadjust="56"  postshift="51" /> <!-- Æ -->
+    <character code="199" page="0" u="1812" v="0"    w="1869" h="81"   preshift="-5"  yadjust="55"  postshift="51" /> <!-- Ç -->
+    <character code="200" page="0" u="229"  v="175"  w="282"  h="254"  preshift="-6"  yadjust="67"  postshift="46" /> <!-- È -->
+    <character code="201" page="0" u="176"  v="175"  w="229"  h="254"  preshift="-6"  yadjust="67"  postshift="46" /> <!-- É -->
+    <character code="202" page="0" u="1384" v="95"   w="1437" h="175"  preshift="-6"  yadjust="69"  postshift="46" /> <!-- Ê -->
+    <character code="203" page="0" u="1431" v="175"  w="1484" h="252"  preshift="-6"  yadjust="66"  postshift="46" /> <!-- Ë -->
+    <character code="204" page="0" u="1344" v="95"   w="1384" h="175"  preshift="-5"  yadjust="69"  postshift="31" /> <!-- Ì -->
+    <character code="205" page="0" u="1303" v="95"   w="1344" h="175"  preshift="-5"  yadjust="66"  postshift="31" /> <!-- /Í -->
+    <character code="206" page="0" u="1262" v="95"   w="1303" h="175"  preshift="-5"  yadjust="69"  postshift="31" /> <!-- Î -->
+    <character code="207" page="0" u="1393" v="175"  w="1431" h="252"  preshift="-5"  yadjust="66"  postshift="31" /> <!-- /Ï -->
+    <character code="208" page="0" u="156"  v="469"  w="222"  h="535"  preshift="-5"  yadjust="55"  postshift="56" /> <!-- Ð -->
+    <character code="209" page="0" u="1198" v="95"   w="1262" h="175"  preshift="-7"  yadjust="67"  postshift="54" /> <!-- Ñ -->
+    <character code="210" page="0" u="1136" v="95"   w="1198" h="175"  preshift="-5"  yadjust="69"  postshift="55" /> <!-- Ò -->
+    <character code="211" page="0" u="1074" v="95"   w="1136" h="175"  preshift="-5"  yadjust="69"  postshift="55" /> <!-- Ó -->
+    <character code="212" page="0" u="1012" v="95"   w="1074" h="175"  preshift="-5"  yadjust="69"  postshift="55" /> <!-- Ô -->
+    <character code="213" page="0" u="1082" v="175"  w="1144" h="253"  preshift="-5"  yadjust="67"  postshift="55" /> <!-- Õ -->
+    <character code="214" page="0" u="1020" v="175"  w="1082" h="253"  preshift="-5"  yadjust="67"  postshift="55" /> <!-- Ö -->
+    <character code="215" page="0" u="653"  v="597"  w="699"  h="643"  preshift="4"  yadjust="41"  postshift="30" />
+    <character code="216" page="0" u="1331" v="175"  w="1393" h="252"  preshift="-5"  yadjust="60"  postshift="55" /> <!-- Ø -->
+    <character code="217" page="0" u="949"  v="95"   w="1012" h="175"  preshift="-8"  yadjust="69"  postshift="53" /> <!-- Ù -->
+    <character code="218" page="0" u="886"  v="95"   w="949"  h="175"  preshift="-8"  yadjust="69"  postshift="53" /> <!-- Ú -->
+    <character code="219" page="0" u="823"  v="95"   w="886"  h="175"  preshift="-8"  yadjust="69"  postshift="53" /> <!-- Û -->
+    <character code="220" page="0" u="957"  v="175"  w="1020" h="253"  preshift="-8"  yadjust="68"  postshift="53" /> <!-- Ü -->
+    <character code="221" page="0" u="763"  v="95"   w="823"  h="175"  preshift="-9" yadjust="66"  postshift="43" /> <!-- Ý -->
+    <character code="222" page="0" u="104"  v="469"  w="156"  h="535"  preshift="4"  yadjust="55"  postshift="33" /> <!-- Þ -->
+    <character code="223" page="0" u="1617" v="254"  w="1675" h="326"  preshift="-6"  yadjust="63"  postshift="47" /> <!-- ß -->
+    <character code="224" page="0" u="1309" v="329"  w="1358" h="399"  preshift="-9"  yadjust="58"  postshift="39" /> <!-- à -->
+    <character code="225" page="0" u="1260" v="329"  w="1309" h="399"  preshift="-9"  yadjust="58"  postshift="39" /> <!-- á -->
+    <character code="226" page="0" u="243"  v="400"  w="292"  h="469"  preshift="-9"  yadjust="57"  postshift="39" /> <!-- â -->
+    <character code="227" page="0" u="1211" v="329"  w="1260" h="399"  preshift="-9"  yadjust="58"  postshift="39" /> <!-- ã -->
+    <character code="228" page="0" u="1362" v="400"  w="1411" h="467"  preshift="-9"  yadjust="55"  postshift="39" /> <!-- ä -->
+    <character code="229" page="0" u="1162" v="329"  w="1211" h="399"  preshift="-9"  yadjust="58"  postshift="39" /> <!-- å -->
+    <character code="230" page="0" u="919"  v="535"  w="981"  h="588"  preshift="2"  yadjust="42"  postshift="39" />   <!-- æ -->
+    <character code="231" page="0" u="718"  v="400"  w="763"  h="468"  preshift="-10"  yadjust="42"  postshift="36" /> <!-- ç -->
+    <character code="232" page="0" u="1117" v="329"  w="1162" h="399"  preshift="-10"  yadjust="59"  postshift="39" /> <!-- è -->
+    <character code="233" page="0" u="1072" v="329"  w="1117" h="399"  preshift="-10"  yadjust="59"  postshift="39" /> <!-- é -->
+    <character code="234" page="0" u="198"  v="400"  w="243"  h="469"  preshift="-10"  yadjust="58"  postshift="39" /> <!-- ê -->
+    <character code="235" page="0" u="1317" v="400"  w="1362" h="467"  preshift="-10"  yadjust="56"  postshift="39" /> <!-- ë -->
+    <character code="236" page="0" u="159"  v="329"  w="197"  h="400"  preshift="-8"  yadjust="59"  postshift="25" /> <!-- ì -->
+    <character code="237" page="0" u="2008" v="254"  w="2045" h="325"  preshift="-8"  yadjust="59"  postshift="25" /> <!-- í -->
+    <character code="238" page="0" u="1030" v="329"  w="1072" h="399"  preshift="-8"  yadjust="59"  postshift="26" /> <!-- î -->
+    <character code="239" page="0" u="66"   v="469"  w="104"  h="535"  preshift="-7"  yadjust="55"  postshift="25" /> <!-- ï -->
+    <character code="240" page="0" u="1568" v="254"  w="1617" h="326"  preshift="-9"  yadjust="53"  postshift="41" /> <!-- ð -->
+    <character code="241" page="0" u="144"  v="400"  w="198"  h="469"  preshift="-10"  yadjust="57"  postshift="47" /> <!-- ñ -->
+    <character code="242" page="0" u="981"  v="329"  w="1030" h="399"  preshift="-9"  yadjust="59"  postshift="41" /> <!-- ò -->
+    <character code="243" page="0" u="932"  v="329"  w="981"  h="399"  preshift="-9"  yadjust="59"  postshift="41" /> <!-- ó -->
+    <character code="244" page="0" u="95"   v="400"  w="144"  h="469"  preshift="-9"  yadjust="58"  postshift="41" /> <!-- ô -->
+    <character code="245" page="0" u="883"  v="329"  w="932"  h="399"  preshift="-9"  yadjust="59"  postshift="41" /> <!-- õ -->
+    <character code="246" page="0" u="1268" v="400"  w="1317" h="467"  preshift="-9"  yadjust="54"  postshift="41" /> <!-- ö -->
+    <character code="247" page="0" u="1518" v="535"  w="1571" h="587"  preshift="1"  yadjust="44"  postshift="30" />
+    <character code="248" page="0" u="1618" v="469"  w="1667" h="533"  preshift="-9"  yadjust="46"  postshift="41" /> <!-- ø -->
+    <character code="249" page="0" u="102"  v="329"  w="159"  h="400"  preshift="-11"  yadjust="59"  postshift="45" /> <!-- ù -->
+    <character code="250" page="0" u="45"   v="329"  w="102"  h="400"  preshift="-11"  yadjust="59"  postshift="45" /> <!-- ú -->
+    <character code="251" page="0" u="826"  v="329"  w="883"  h="399"  preshift="-11"  yadjust="58"  postshift="45" /> <!-- û -->
+    <character code="252" page="0" u="1211" v="400"  w="1268" h="467"  preshift="-11"  yadjust="55"  postshift="45" /> <!-- ü -->
+    <character code="253" page="0" u="1152" v="0"    w="1205" h="85"   preshift="-12" yadjust="57"  postshift="44" />  <!-- ý -->
+    <character code="254" page="0" u="178"  v="0"    w="229"  h="89"   preshift="0"  yadjust="62"  postshift="36" />   <!-- þ -->
+    <character code="255" page="0" u="1647" v="0"    w="1700" h="82"   preshift="-12" yadjust="55"  postshift="44" />  <!-- ÿ -->
+    <character code="256" page="0" u="0"    v="254"  w="63"   h="329"  preshift="-2" yadjust="64"  postshift="35" />
+    <character code="257" page="0" u="1162" v="400"  w="1211" h="467"  preshift="3"  yadjust="56"  postshift="27" />
+    <character code="258" page="0" u="894"  v="175"  w="957"  h="253"  preshift="-2" yadjust="67"  postshift="35" />
+    <character code="259" page="0" u="46"   v="400"  w="95"   h="469"  preshift="3"  yadjust="58"  postshift="27" />
+    <character code="260" page="0" u="1749" v="0"    w="1812" h="81"   preshift="-2" yadjust="55"  postshift="34" />
+    <character code="261" page="0" u="668"  v="400"  w="718"  h="468"  preshift="3"  yadjust="42"  postshift="27" />
+    <character code="262" page="0" u="706"  v="95"   w="763"  h="175"  preshift="3"  yadjust="69"  postshift="38" />
+    <character code="263" page="0" u="781"  v="329"  w="826"  h="399"  preshift="2"  yadjust="59"  postshift="24" />
+    <character code="264" page="0" u="649"  v="95"   w="706"  h="175"  preshift="3"  yadjust="69"  postshift="38" />
+    <character code="265" page="0" u="0"    v="400"  w="46"   h="469"  preshift="2"  yadjust="58"  postshift="24" />
+    <character code="266" page="0" u="119"  v="175"  w="176"  h="254"  preshift="3"  yadjust="68"  postshift="38" />
+    <character code="267" page="0" u="0"    v="329"  w="45"   h="400"  preshift="2"  yadjust="60"  postshift="24" />
+    <character code="268" page="0" u="62"   v="175"  w="119"  h="254"  preshift="3"  yadjust="68"  postshift="38" />
+    <character code="269" page="0" u="1963" v="254"  w="2008" h="325"  preshift="2"  yadjust="60"  postshift="24" />
+    <character code="270" page="0" u="0"    v="175"  w="62"   h="254"  preshift="4"  yadjust="68"  postshift="44" />
+    <character code="271" page="0" u="1101" v="254"  w="1158" h="327"  preshift="2"  yadjust="62"  postshift="32" />
+    <character code="272" page="0" u="0"    v="469"  w="66"   h="535"  preshift="0"  yadjust="55"  postshift="44" />
+    <character code="273" page="0" u="1047" v="254"  w="1101" h="327"  preshift="2"  yadjust="62"  postshift="31" />
+    <character code="274" page="0" u="1988" v="175"  w="2041" h="250"  preshift="4"  yadjust="64"  postshift="35" />
+    <character code="275" page="0" u="1117" v="400"  w="1162" h="467"  preshift="2"  yadjust="56"  postshift="25" />
+    <character code="276" page="0" u="841"  v="175"  w="894"  h="253"  preshift="4"  yadjust="67"  postshift="35" />
+    <character code="277" page="0" u="1974" v="329"  w="2019" h="398"  preshift="2"  yadjust="58"  postshift="25" />
+    <character code="278" page="0" u="1960" v="95"   w="2013" h="174"  preshift="4"  yadjust="68"  postshift="35" />
+    <character code="279" page="0" u="1918" v="254"  w="1963" h="325"  preshift="2"  yadjust="60"  postshift="25" />
+    <character code="280" page="0" u="1594" v="0"    w="1647" h="82"   preshift="4"  yadjust="56"  postshift="35" />
+    <character code="281" page="0" u="622"  v="400"  w="668"  h="468"  preshift="2"  yadjust="42"  postshift="25" />
+    <character code="282" page="0" u="596"  v="95"   w="649"  h="175"  preshift="4"  yadjust="69"  postshift="35" />
+    <character code="283" page="0" u="1873" v="254"  w="1918" h="325"  preshift="2"  yadjust="60"  postshift="25" />
+    <character code="284" page="0" u="538"  v="95"   w="596"  h="175"  preshift="3"  yadjust="69"  postshift="41" />
+    <character code="285" page="0" u="1255" v="0"    w="1305" h="84"   preshift="4"  yadjust="58"  postshift="30" />
+    <character code="286" page="0" u="783"  v="175"  w="841"  h="253"  preshift="3"  yadjust="67"  postshift="41" />
+    <character code="287" page="0" u="1205" v="0"    w="1255" h="84"   preshift="4"  yadjust="58"  postshift="30" />
+    <character code="288" page="0" u="1902" v="95"   w="1960" h="174"  preshift="3"  yadjust="68"  postshift="41" />
+    <character code="289" page="0" u="933"  v="0"    w="983"  h="86"   preshift="4"  yadjust="60"  postshift="30" />
+    <character code="290" page="0" u="875"  v="0"    w="933"  h="86"   preshift="3"  yadjust="55"  postshift="41" />
+    <character code="291" page="0" u="229"  v="0"    w="279"  h="88"   preshift="4"  yadjust="62"  postshift="30" />
+    <character code="292" page="0" u="473"  v="95"   w="538"  h="175"  preshift="4"  yadjust="69"  postshift="47" />
+    <character code="293" page="0" u="377"  v="0"    w="433"  h="87"   preshift="-1" yadjust="76"  postshift="32" />
+    <character code="294" page="0" u="1975" v="400"  w="2041" h="466"  preshift="3"  yadjust="55"  postshift="47" />
+    <character code="295" page="0" u="992"  v="254"  w="1047" h="327"  preshift="0"  yadjust="62"  postshift="32" />
+    <character code="296" page="0" u="741"  v="175"  w="783"  h="253"  preshift="2"  yadjust="67"  postshift="20" />
+    <character code="297" page="0" u="1931" v="329"  w="1974" h="398"  preshift="-2" yadjust="58"  postshift="15" />
+    <character code="298" page="0" u="1946" v="175"  w="1988" h="250"  preshift="2"  yadjust="64"  postshift="20" />
+    <character code="299" page="0" u="1077" v="400"  w="1117" h="467"  preshift="0"  yadjust="56"  postshift="15" />
+    <character code="300" page="0" u="703"  v="175"  w="741"  h="253"  preshift="4"  yadjust="67"  postshift="20" />
+    <character code="301" page="0" u="584"  v="400"  w="622"  h="468"  preshift="1"  yadjust="57"  postshift="15" />
+    <character code="302" page="0" u="1554" v="0"    w="1594" h="82"   preshift="3"  yadjust="56"  postshift="20" />
+    <character code="303" page="0" u="840"  v="0"    w="875"  h="86"   preshift="3"  yadjust="60"  postshift="14" />
+    <character code="304" page="0" u="1863" v="95"   w="1902" h="174"  preshift="3"  yadjust="68"  postshift="19" />
+    <character code="305" page="0" u="709"  v="535"  w="745"  h="589"  preshift="2"  yadjust="43"  postshift="15" />
+    <character code="306" page="0" u="1885" v="175"  w="1946" h="250"  preshift="4"  yadjust="55"  postshift="43" />
+    <character code="307" page="0" u="791"  v="0"    w="840"  h="86"   preshift="3"  yadjust="59"  postshift="32" />
+    <character code="308" page="0" u="136"  v="0"    w="178"  h="89"   preshift="1"  yadjust="69"  postshift="18" />
+    <character code="309" page="0" u="750"  v="0"    w="791"  h="86"   preshift="-2" yadjust="59"  postshift="12" />
+    <character code="310" page="0" u="691"  v="0"    w="750"  h="86"   preshift="4"  yadjust="55"  postshift="38" />
+    <character code="311" page="0" u="50"   v="0"    w="102"  h="93"   preshift="2"  yadjust="62"  postshift="30" />
+    <character code="312" page="0" u="866"  v="535"  w="919"  h="588"  preshift="2"  yadjust="42"  postshift="31" />
+    <character code="313" page="0" u="422"  v="95"   w="473"  h="175"  preshift="4"  yadjust="69"  postshift="30" />
+    <character code="314" page="0" u="341"  v="0"    w="377"  h="87"   preshift="2"  yadjust="76"  postshift="12" />
+    <character code="315" page="0" u="1100" v="0"    w="1152" h="85"   preshift="4"  yadjust="55"  postshift="30" />
+    <character code="316" page="0" u="102"  v="0"    w="136"  h="92"   preshift="2"  yadjust="62"  postshift="12" />
+    <character code="317" page="0" u="1923" v="400"  w="1975" h="466"  preshift="4"  yadjust="55"  postshift="30" />
+    <character code="318" page="0" u="952"  v="254"  w="992"  h="327"  preshift="2"  yadjust="62"  postshift="16" />
+    <character code="319" page="0" u="1872" v="400"  w="1923" h="466"  preshift="4"  yadjust="55"  postshift="31" />
+    <character code="320" page="0" u="912"  v="254"  w="952"  h="327"  preshift="2"  yadjust="62"  postshift="17" />
+    <character code="321" page="0" u="1821" v="400"  w="1872" h="466"  preshift="4"  yadjust="55"  postshift="33" />
+    <character code="322" page="0" u="875"  v="254"  w="912"  h="327"  preshift="0"  yadjust="62"  postshift="12" />
+    <character code="323" page="0" u="1490" v="0"    w="1554" h="82"   preshift="3"  yadjust="69"  postshift="44" />
+    <character code="324" page="0" u="727"  v="329"  w="781"  h="399"  preshift="2"  yadjust="59"  postshift="34" />
+    <character code="325" page="0" u="1036" v="0"    w="1100" h="85"   preshift="3"  yadjust="55"  postshift="44" />
+    <character code="326" page="0" u="1514" v="254"  w="1568" h="326"  preshift="2"  yadjust="42"  postshift="34" />
+    <character code="327" page="0" u="1426" v="0"    w="1490" h="82"   preshift="3"  yadjust="69"  postshift="44" />
+    <character code="328" page="0" u="1819" v="254"  w="1873" h="325"  preshift="2"  yadjust="60"  postshift="34" />
+    <character code="330" page="0" u="1650" v="175"  w="1715" h="251"  preshift="3"  yadjust="55"  postshift="45" />
+    <character code="331" page="0" u="1978" v="469"  w="2028" h="531"  preshift="2"  yadjust="42"  postshift="32" />
+    <character code="332" page="0" u="1823" v="175"  w="1885" h="250"  preshift="3"  yadjust="64"  postshift="43" />
+    <character code="333" page="0" u="1028" v="400"  w="1077" h="467"  preshift="2"  yadjust="56"  postshift="28" />
+    <character code="334" page="0" u="641"  v="175"  w="703"  h="253"  preshift="3"  yadjust="67"  postshift="43" />
+    <character code="335" page="0" u="1882" v="329"  w="1931" h="398"  preshift="2"  yadjust="58"  postshift="28" />
+    <character code="336" page="0" u="1801" v="95"   w="1863" h="174"  preshift="3"  yadjust="68"  postshift="43" />
+    <character code="337" page="0" u="678"  v="329"  w="727"  h="399"  preshift="2"  yadjust="59"  postshift="28" />
+    <character code="338" page="0" u="1742" v="400"  w="1821" h="466"  preshift="3"  yadjust="55"  postshift="61" />
+    <character code="339" page="0" u="798"  v="535"  w="866"  h="588"  preshift="2"  yadjust="42"  postshift="47" />
+    <character code="340" page="0" u="364"  v="95"   w="422"  h="175"  preshift="4"  yadjust="69"  postshift="37" />
+    <character code="341" page="0" u="1839" v="329"  w="1882" h="398"  preshift="2"  yadjust="59"  postshift="21" />
+    <character code="342" page="0" u="633"  v="0"    w="691"  h="86"   preshift="4"  yadjust="55"  postshift="37" />
+    <character code="343" page="0" u="1471" v="254"  w="1514" h="326"  preshift="2"  yadjust="42"  postshift="21" />
+    <character code="344" page="0" u="306"  v="95"   w="364"  h="175"  preshift="4"  yadjust="69"  postshift="37" />
+    <character code="345" page="0" u="1793" v="329"  w="1839" h="398"  preshift="-1" yadjust="59"  postshift="21" />
+    <character code="346" page="0" u="257"  v="95"   w="306"  h="175"  preshift="4"  yadjust="69"  postshift="32" />
+    <character code="347" page="0" u="636"  v="329"  w="678"  h="399"  preshift="3"  yadjust="59"  postshift="23" />
+    <character code="348" page="0" u="208"  v="95"   w="257"  h="175"  preshift="4"  yadjust="69"  postshift="32" />
+    <character code="349" page="0" u="1751" v="329"  w="1793" h="398"  preshift="3"  yadjust="58"  postshift="23" />
+    <character code="350" page="0" u="1700" v="0"    w="1749" h="81"   preshift="4"  yadjust="55"  postshift="32" />
+    <character code="351" page="0" u="542"  v="400"  w="584"  h="468"  preshift="3"  yadjust="42"  postshift="23" />
+    <character code="352" page="0" u="1998" v="0"    w="2047" h="80"   preshift="4"  yadjust="69"  postshift="32" />
+    <character code="353" page="0" u="1777" v="254"  w="1819" h="325"  preshift="3"  yadjust="60"  postshift="23" />
+    <character code="354" page="0" u="1368" v="0"    w="1426" h="82"   preshift="0"  yadjust="56"  postshift="33" />
+    <character code="355" page="0" u="834"  v="254"  w="875"  h="327"  preshift="1"  yadjust="47"  postshift="17" />
+    <character code="356" page="0" u="1743" v="95"   w="1801" h="174"  preshift="0"  yadjust="69"  postshift="33" />
+    <character code="357" page="0" u="236"  v="535"  w="283"  h="593"  preshift="1"  yadjust="47"  postshift="22" />
+    <character code="358" page="0" u="1684" v="400"  w="1742" h="466"  preshift="0"  yadjust="56"  postshift="33" />
+    <character code="359" page="0" u="194"  v="535"  w="236"  h="593"  preshift="1"  yadjust="47"  postshift="19" />
+    <character code="360" page="0" u="578"  v="175"  w="641"  h="253"  preshift="2"  yadjust="67"  postshift="41" />
+    <character code="361" page="0" u="579"  v="329"  w="636"  h="399"  preshift="1"  yadjust="59"  postshift="32" />
+    <character code="362" page="0" u="1760" v="175"  w="1823" h="250"  preshift="2"  yadjust="64"  postshift="41" />
+    <character code="363" page="0" u="971"  v="400"  w="1028" h="467"  preshift="1"  yadjust="56"  postshift="32" />
+    <character code="364" page="0" u="515"  v="175"  w="578"  h="253"  preshift="2"  yadjust="67"  postshift="41" />
+    <character code="365" page="0" u="1694" v="329"  w="1751" h="398"  preshift="1"  yadjust="58"  postshift="32" />
+    <character code="366" page="0" u="1680" v="95"   w="1743" h="174"  preshift="2"  yadjust="68"  postshift="41" />
+    <character code="367" page="0" u="522"  v="329"  w="579"  h="399"  preshift="1"  yadjust="59"  postshift="32" />
+    <character code="368" page="0" u="145"  v="95"   w="208"  h="175"  preshift="2"  yadjust="69"  postshift="41" />
+    <character code="369" page="0" u="465"  v="329"  w="522"  h="399"  preshift="1"  yadjust="59"  postshift="32" />
+    <character code="370" page="0" u="1305" v="0"    w="1368" h="82"   preshift="2"  yadjust="56"  postshift="41" />
+    <character code="371" page="0" u="1636" v="329"  w="1694" h="398"  preshift="1"  yadjust="43"  postshift="32" />
+    <character code="372" page="0" u="60"   v="95"   w="145"  h="175"  preshift="0"  yadjust="69"  postshift="59" />
+    <character code="373" page="0" u="395"  v="329"  w="465"  h="399"  preshift="-1" yadjust="59"  postshift="43" />
+    <character code="374" page="0" u="0"    v="95"   w="60"   h="175"  preshift="-2" yadjust="69"  postshift="31" />
+    <character code="375" page="0" u="983"  v="0"    w="1036" h="85"   preshift="-1" yadjust="59"  postshift="26" />
+    <character code="376" page="0" u="1270" v="175"  w="1331" h="252"  preshift="-2" yadjust="66"  postshift="33" />
+    <character code="377" page="0" u="1626" v="95"   w="1680" h="174"  preshift="2"  yadjust="68"  postshift="34" />
+    <character code="378" page="0" u="1589" v="329"  w="1636" h="398"  preshift="2"  yadjust="59"  postshift="26" />
+    <character code="379" page="0" u="460"  v="175"  w="515"  h="253"  preshift="2"  yadjust="67"  postshift="35" />
+    <character code="380" page="0" u="1542" v="329"  w="1589" h="398"  preshift="2"  yadjust="59"  postshift="26" />
+    <character code="381" page="0" u="1944" v="0"    w="1998" h="80"   preshift="2"  yadjust="69"  postshift="34" />
+    <character code="382" page="0" u="1495" v="329"  w="1542" h="398"  preshift="2"  yadjust="59"  postshift="26" />
+    <character code="402" page="0" u="782"  v="254"  w="834"  h="327"  preshift="-4" yadjust="52"  postshift="21" />
+    <character code="506" page="0" u="279"  v="0"    w="341"  h="87"   preshift="-2" yadjust="76"  postshift="34" />
+    <character code="507" page="0" u="733"  v="254"  w="782"  h="327"  preshift="3"  yadjust="62"  postshift="27" />
+    <character code="508" page="0" u="1869" v="0"    w="1944" h="80"   preshift="-1" yadjust="69"  postshift="51" />
+    <character code="509" page="0" u="333"  v="329"  w="395"  h="399"  preshift="2"  yadjust="59"  postshift="39" />
+    <character code="510" page="0" u="571"  v="0"    w="633"  h="86"   preshift="3"  yadjust="69"  postshift="43" />
+    <character code="511" page="0" u="1601" v="175"  w="1650" h="251"  preshift="2"  yadjust="59"  postshift="28" />
+    <character code="536" page="0" u="522"  v="0"    w="571"  h="86"   preshift="4"  yadjust="55"  postshift="32" />
+    <character code="537" page="0" u="691"  v="254"  w="733"  h="327"  preshift="3"  yadjust="42"  postshift="23" />
+    <character code="538" page="0" u="464"  v="0"    w="522"  h="86"   preshift="0"  yadjust="56"  postshift="33" />
+    <character code="539" page="0" u="418"  v="175"  w="460"  h="253"  preshift="1"  yadjust="47"  postshift="18" />
+    <character code="567" page="0" u="300"  v="329"  w="333"  h="399"  preshift="0"  yadjust="43"  postshift="12" />
+    <character code="710" page="0" u="1734" v="597"  w="1775" h="630"  preshift="3"  yadjust="58"  postshift="22" />
+    <character code="711" page="0" u="1692" v="597"  w="1734" h="630"  preshift="3"  yadjust="59"  postshift="22" />
+    <character code="728" page="0" u="1975" v="597"  w="2012" h="626"  preshift="5"  yadjust="57"  postshift="22" />
+    <character code="729" page="0" u="77"   v="644"  w="104"  h="672"  preshift="10" yadjust="60"  postshift="22" />
+    <character code="730" page="0" u="1775" v="597"  w="1806" h="628"  preshift="8"  yadjust="59"  postshift="22" />
+    <character code="731" page="0" u="1056" v="597"  w="1091" h="637"  preshift="6"  yadjust="14"  postshift="22" />
+    <character code="732" page="0" u="1806" v="597"  w="1849" h="627"  preshift="2"  yadjust="58"  postshift="22" />
+    <character code="733" page="0" u="1650" v="597"  w="1692" h="630"  preshift="5"  yadjust="59"  postshift="22" />
+    <character code="803" page="0" u="49"   v="644"  w="77"   h="672"  preshift="10" yadjust="5"    postshift="23" />
+    <character code="916" page="0" u="1399" v="469"  w="1454" h="534"  preshift="0"  yadjust="55"  postshift="32" />
+    <character code="937" page="0" u="1325" v="469"  w="1399" h="534"  preshift="2"  yadjust="55"  postshift="54" />
+    <character code="956" page="0" u="247"  v="329"  w="300"  h="399"  preshift="3"  yadjust="43"  postshift="31" />
+    <character code="960" page="0" u="1667" v="469"  w="1727" h="532"  preshift="0"  yadjust="46"  postshift="36" />
+    <character code="5120"                                                                          postshift="9" />
+    <character code="5121"                                                                          postshift="9" />
+    <character code="5122"                                                                          postshift="9" />
+    <character code="5123"                                                                          postshift="9" />
+    <character code="5124"                                                                          postshift="9" />
+    <character code="5125"                                                                          postshift="9" />
+    <character code="5234"                                                                          postshift="9" />
+    <character code="5235"                                                                          postshift="9" />
+    <character code="8211" page="0" u="208"  v="644"  w="261"  h="669"  preshift="-1" yadjust="31"  postshift="26" />
+    <character code="8212" page="0" u="355"  v="644"  w="440"  h="668"  preshift="-1" yadjust="30"  postshift="58" />
+    <character code="8216" page="0" u="1462" v="597"  w="1492" h="633"  preshift="2"  yadjust="55"  postshift="7" />
+    <character code="8217" page="0" u="1431" v="597"  w="1462" h="633"  preshift="0"  yadjust="55"  postshift="7" />
+    <character code="8218" page="0" u="1142" v="597"  w="1173" h="635"  preshift="1"  yadjust="17"  postshift="11" />
+    <character code="8220" page="0" u="1390" v="597"  w="1431" h="633"  preshift="2"  yadjust="55"  postshift="18" />
+    <character code="8221" page="0" u="1349" v="597"  w="1390" h="633"  preshift="0"  yadjust="55"  postshift="18" />
+    <character code="8222" page="0" u="1308" v="597"  w="1349" h="633"  preshift="2"  yadjust="17"  postshift="22" />
+    <character code="8224" page="0" u="492"  v="400"  w="542"  h="468"  preshift="2"  yadjust="52"  postshift="29" />
+    <character code="8225" page="0" u="1445" v="329"  w="1495" h="398"  preshift="2"  yadjust="52"  postshift="29" />
+    <character code="8226" page="0" u="1492" v="597"  w="1527" h="632"  preshift="4"  yadjust="33"  postshift="18" />
+    <character code="8228" page="0" u="1947" v="597"  w="1975" h="626"  preshift="4"  yadjust="18"  postshift="11" />
+    <character code="8229" page="0" u="1905" v="597"  w="1947" h="626"  preshift="4"  yadjust="18"  postshift="25" />
+    <character code="8230" page="0" u="1849" v="597"  w="1905" h="626"  preshift="4"  yadjust="18"  postshift="39" />
+    <character code="8240" page="0" u="260"  v="254"  w="346"  h="328"  preshift="2"  yadjust="57"  postshift="64" />
+    <character code="8249" page="0" u="767"  v="597"  w="801"  h="642"  preshift="1"  yadjust="38"  postshift="13" />
+    <character code="8250" page="0" u="733"  v="597"  w="767"  h="642"  preshift="3"  yadjust="38"  postshift="13" />
+    <character code="8260" page="0" u="203"  v="254"  w="260"  h="328"  preshift="-15" yadjust="57"  postshift="4" />
+    <character code="8290"                                                                          postshift="9" />
+    <character code="8294"                                                                          postshift="9" />
+    <character code="8302"                                                                          postshift="9" />
+    <character code="8304" page="0" u="456"  v="597"  w="496"  h="644"  preshift="2"  yadjust="61"  postshift="19" />
+    <character code="8308" page="0" u="417"  v="597"  w="456"  h="644"  preshift="1"  yadjust="60"  postshift="16" />
+    <character code="8309" page="0" u="1798" v="535"  w="1835" h="584"  preshift="2"  yadjust="63"  postshift="16" />
+    <character code="8310" page="0" u="380"  v="597"  w="417"  h="644"  preshift="2"  yadjust="61"  postshift="16" />
+    <character code="8311" page="0" u="342"  v="597"  w="380"  h="644"  preshift="2"  yadjust="61"  postshift="15" />
+    <character code="8312" page="0" u="305"  v="597"  w="342"  h="644"  preshift="3"  yadjust="61"  postshift="18" />
+    <character code="8313" page="0" u="267"  v="597"  w="305"  h="644"  preshift="2"  yadjust="60"  postshift="17" />
+    <character code="8319" page="0" u="974"  v="597"  w="1016" h="638"  preshift="2"  yadjust="55"  postshift="21" />
+    <character code="8320" page="0" u="227"  v="597"  w="267"  h="644"  preshift="2"  yadjust="28"  postshift="19" />
+    <character code="8321" page="0" u="619"  v="597"  w="653"  h="643"  preshift="2"  yadjust="27"  postshift="12" />
+    <character code="8322" page="0" u="186"  v="597"  w="227"  h="644"  preshift="1"  yadjust="28"  postshift="18" />
+    <character code="8323" page="0" u="151"  v="597"  w="186"  h="644"  preshift="2"  yadjust="28"  postshift="15" />
+    <character code="8324" page="0" u="112"  v="597"  w="151"  h="644"  preshift="1"  yadjust="28"  postshift="16" />
+    <character code="8325" page="0" u="1761" v="535"  w="1798" h="584"  preshift="2"  yadjust="30"  postshift="16" />
+    <character code="8326" page="0" u="75"   v="597"  w="112"  h="644"  preshift="2"  yadjust="28"  postshift="16" />
+    <character code="8327" page="0" u="37"   v="597"  w="75"   h="644"  preshift="2"  yadjust="28"  postshift="15" />
+    <character code="8328" page="0" u="0"    v="597"  w="37"   h="644"  preshift="3"  yadjust="28"  postshift="18" />
+    <character code="8329" page="0" u="1983" v="535"  w="2021" h="582"  preshift="2"  yadjust="28"  postshift="17" />
+    <character code="8335"                                                                          postshift="9" />
+    <character code="8337"                                                                          postshift="9" />
+    <character code="8338"                                                                          postshift="9" />
+    <character code="8346"                                                                          postshift="9" />
+    <character code="8350"                                                                          postshift="9" />
+    <character code="8355" page="0" u="409"  v="535"  w="456"  h="592"  preshift="4"  yadjust="46"  postshift="26" />
+    <character code="8363"                                                                          postshift="9" />
+    <character code="8364" page="0" u="511"  v="535"  w="568"  h="591"  preshift="0"  yadjust="45"  postshift="36" />
+    <character code="8392"                                                                          postshift="9" />
+    <character code="8416"                                                                          postshift="9" />
+    <character code="8420"                                                                          postshift="9" />
+    <character code="8421"                                                                          postshift="9" />
+    <character code="8714"                                                                          postshift="9" />
+    <character code="62145"                                                                          postshift="9" />
+    <character code="62146"                                                                          postshift="9" />
+</FontDetails>
+</FontData>
