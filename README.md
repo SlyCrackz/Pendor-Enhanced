@@ -9,6 +9,7 @@
     - Disabled morale trigger (this fixes stutter in large battles) - credits to Vetrogor
 7. **Tournaments and Arenas**
     - Arena Scene Overhaul - credits to Adorno
+    - Add a notification about Noldor Tournaments being held at Elacrai - credits to BananaFruit
 8. **Field and Village Battles**
 9. **Sieges**
     - Disable siege defenders from charging out - credits to Vetrogor
