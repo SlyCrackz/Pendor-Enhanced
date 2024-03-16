@@ -6,6 +6,7 @@
     - Add automatic notification messages about the location of unique spawns and minor faction armies (once a day) - Leonion
     - Change the cost of the sighting report info about spawns from 2000 to 500
     - Change the level-multiplier of the player determining the size of various parties on the map (From 4 to 5) - credits to Dalion 
+    - Change the patrolling radius of various patrols (From 5 to 3) - credits to Vetrogor 
 2. **Knighthood Orders**
     - Be able to create KO chapters in any walled fief of your own kingdom - credits to SirArtyr, Leonion and VonDegurechaff 
     - Overhaul of KO upgrade system - credits to Leonion
