@@ -63,6 +63,7 @@
     - Make the equipment of medium- and high-tier companions great again, and lock their inventories up until certain levels Locked their inventories with the level they have upon hiring them.
     - Make all companions contribute their prisoner management skill to the total prisoner limit - credits to Leonion 
 17. **Troops and NPCs**
+    - Overhaul of the system about hiring rescued prisoners (Setup as the default on tweak page) - credits to Timon
 18. **Items**
     - Arsenal of Al-Aziz - credits to Gorvexon
 19. **Skills**
