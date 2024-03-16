@@ -65,6 +65,7 @@
 17. **Troops and NPCs**
     - Overhaul of the system about hiring rescued prisoners (Setup as the default on tweak page) - credits to Timon
     - Change which troops are available for hire in taverns and how much does it cost (Made Farmers and Townsmen added to merc list) - credits to Dalion, SPD_Phoenix and The Mercenary
+    - Add a button leading to the belonging troop tree of each troop's party screen - credits to Vetrogor 
 18. **Items**
     - Arsenal of Al-Aziz - credits to Gorvexon
 19. **Skills**
