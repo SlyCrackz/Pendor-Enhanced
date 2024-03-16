@@ -7,7 +7,7 @@
 5. **Relations**
 6. **Morale**
 7. **Tournaments and Arenas**
-    - Arena Scene Overhaul - Adorno
+    - Arena Scene Overhaul - credits to Adorno
 8. **Field and Village Battles**
 9. **Sieges**
 10. **Battles and Fights in General**
