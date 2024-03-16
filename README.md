@@ -10,6 +10,7 @@
 8. **Field and Village Battles**
 9. **Sieges**
 10. **Battles and Fights in General**
+    - Dynamic reassignment and reequipment - Vetrogor
 11. **Loot**
 12. **Economy and Prosperity**
 13. **Kingdom and Fief Management**
@@ -18,6 +19,7 @@
 16. **Companions**
 17. **Troops and NPCs**
 18. **Items**
+    - Arsenal of Al-Aziz - Gorvexon
 19. **Skills**
 20. **Cheats**
 21. **Miscellaneous**
