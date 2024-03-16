@@ -3,6 +3,7 @@
 1. **Spawns and Parties**
 2. **Knighthood Orders**
 3. **Custom Knighthood Order**
+    - Unlock Sarleon and Ravenstern Armored Warhorses for your CKO - credits to VonDegurechaff 
 4. **Honor and Renown**
 5. **Relations**
 6. **Morale**
