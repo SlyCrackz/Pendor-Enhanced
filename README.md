@@ -28,5 +28,7 @@
     - HD Skyboxes2k - credits to GrowlingGuy41
     - Optional Font - credits to Saxodragon
     - Optional Textures - credits to Saxodragon
+    - Alternate Ocean and River - credits to AWOIAF
+    
 
 
