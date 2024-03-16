@@ -37,6 +37,7 @@
 15. **Vassals, Lords and Ladies**
     - Forbid lords from raiding villages under certain conditions (restriction to lords whose total autocalc strength is less than the target village garrison's autocalc strength and upstanding and good-natured lords never raid villages) - credits to Dalion and VonDegurechaff
     - Ransom imprisoned lords from other friendly lords (Fief owner over 40 relation points with you, 5k denars to ransom lord, 10k denars to ransom monarch) - credits to Leonion
+    - Revise the household troop allocation and add new ones to lords
 16. **Companions**
 17. **Troops and NPCs**
 18. **Items**
