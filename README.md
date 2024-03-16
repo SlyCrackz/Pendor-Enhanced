@@ -1,5 +1,16 @@
 ## Pendor Enhanced
 
+
+### Option 1: Manual Installation
+- **Download**: Grab the `Pendor-Enhanced-Tweaks.7z` from the [releases page](https://github.com/SlyCrackz/Pendor-Enhanced/releases).
+- **Install**: Unzip directly into your fresh Prophesy of Pendor 3.9.5 installation folder.
+
+### Option 2: Automated Installer
+- **Download**: Find `Pendor-Enhanced-Installer.7z` on the [releases page](https://github.com/SlyCrackz/Pendor-Enhanced/releases), which includes the installer EXE.
+- **Install**: Unzip and run `Setup.exe` inside the folder to automatically install and apply tweaks. When prompted, select the `Modules` folder in your Warband installation as the install location.
+
+**Note**: Only one of the above methods is needed to enjoy Pendor-Enhanced. 
+
 1. **Spawns and Parties**
     - Be able to take Maltise's Asp Throwing Axes and Wolfbode the Slayer's axe for yourself when they get captured - BananaFruit
     - Change the circumstances of unique spawns deciding to sack a town (25 percent chance/check every 12 hours) - Dalion and Половець
