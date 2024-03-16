@@ -35,6 +35,7 @@
 14. **Quests**
     - Make guildmasters always offer another quest once you turn one down - credits to TheMageLord
 15. **Vassals, Lords and Ladies**
+    - Forbid lords from raiding villages under certain conditions (restriction to lords whose total autocalc strength is less than the target village garrison's autocalc strength and upstanding and good-natured lords never raid villages) - credits to Dalion and VonDegurechaff
 16. **Companions**
 17. **Troops and NPCs**
 18. **Items**
